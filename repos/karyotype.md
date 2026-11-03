@@ -102,6 +102,8 @@ The table below was derived from the Supplementary Table of [Uno et al., Commun 
 <sup>4</sup> Unpaired large- or middle-sized chromosomes were observed in female individuals, but males were not analyzed.  
 <sup>5</sup> Male heteromorphic sex chromosomes were observed in only the individuals distributed in the Paraná River (Corrientes, Argentina) (ref. 27).
 
+<div class="accent-bar" aria-hidden="true"></div>
+
 References:
 1. Nygren, A. & Jahnke, M. Microchromosomes in primitive fishes. Swed. J. Agric.
 Res. 2, 229–238 (1972).

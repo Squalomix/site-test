@@ -103,6 +103,8 @@ tantan -c input.fna > output.fna
 
 The pieces of information covered in this page arose from technical development, biological analysis, and discussion by John Rozewicki, Jeremy Berthelier, and Shigehiro Kuraku.
 
+<div class="accent-bar" aria-hidden="true"></div>
+
 ## Links
 
 [Listing of upcoming conferences](https://tehub.org/en/Conferences) at TEHub <BR>

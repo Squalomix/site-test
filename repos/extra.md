@@ -24,6 +24,8 @@ Some comments about the status and details of the individual assemblies are incl
 | *Coturnix japonica* | Japanese quail | PacBio HiFi + Hi-C |[GCF_054131305.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_054131305.1/)|
 | *Nothobranchius furzeri* | African turquoise killifish | PacBio HiFi + Hi-C |[GCF_043380555.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_043380555.1/)|
 
+<div class="accent-bar" aria-hidden="true"></div>
+
 ### *Coturnix japonica* (Japanese quail)
 
 An improved chromosome-scale genome assembly has been produced by collaborating with Prof. Nishijima at Avian Bioscience Research Center of Nagoya University who conducts [National BioResource Project (NBRP) for chicken and quail under MEXT, Japan](https://www.agr.nagoya-u.ac.jp/~nbrp/en/organiztion/index.html). It has been released at NCBI as [GCF_054131305.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_054131305.1/).

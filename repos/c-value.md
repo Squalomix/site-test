@@ -28,6 +28,8 @@ Our qPCR-based genome size estimation protocol sQuantGenome is available in Engl
 <BR>
 <BR>
 
+<div class="accent-bar" aria-hidden="true"></div>
+
 ## Original genome size data
 
 |Species|Method| C-value (pg) | Size in basepairs (Gb)|Reference|

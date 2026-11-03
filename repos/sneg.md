@@ -20,30 +20,32 @@ This project is being carried out in collaboration with Toni Gabaldón's group a
 
 The products of this project are the chordate-wide catalogue of gene orthology (phylome) and the standardized nomenclature for elasmobranch genes derived from it. One of the resultant dataset will soon be made available in a part of data provided at the aLeaves2 web server.
 
+<div class="accent-bar" aria-hidden="true"></div>
+
 ## Species in the current effort
 
-*Drosophila melanogaster*<br>
-*Branchiostoma lanceolatum*<br>
-*Ciona intestinalis*<br>
+*Drosophila melanogaster* (common fruit fly)<br>
+*Branchiostoma lanceolatum* (Mediterranean amphioxus)<br>
+*Ciona intestinalis* (vase tunicate)<br>
 inshore hagfish<br>
-*Petromyzon marinus*<br>
-*Geotria australis*<br>
-*Scyliorhinus torazame*<br>
-*Hemiscyllium ocellatum*<br>
-*Squalus acanthias*<br>
-*Leucoraja erinacea*<br>
-*Hemitrygon akajei*<br>
-*Callorhinchus milii*<br>
-*Chimaera phantasma*<br>
-*Lepisosteus oculatus*<br>
-*Danio rerio*<br>
-*Oryzias latipes*<br>
-*Xenopus tropicalis*<br>
-*Ambystoma mexicanum*<br>
-*Gallus gallus*<br>
-*Paroedura picta*<br>
-*Monodelphis domestica*<br>
-*Homo sapiens*<br>
+*Petromyzon marinus* (sea lamprey)<br>
+*Geotria australis* (pouched lamprey)<br>
+*Scyliorhinus torazame* (cloudy catshark)<br>
+*Hemiscyllium ocellatum* (epaulette shark)<br>
+*Squalus acanthias* (spiny dogfish)<br>
+*Leucoraja erinacea* (little skate)<br>
+*Hemitrygon akajei* (red stingray)<br>
+*Callorhinchus milii* (elephant fish)<br>
+*Chimaera phantasma* (silver chimaera)<br>
+*Lepisosteus oculatus* (spotted gar)<br>
+*Danio rerio* (zebrafish)<br>
+*Oryzias latipes* (medaka)<br>
+*Xenopus tropicalis* (western clawed frog)<br>
+*Ambystoma mexicanum* (axolotl)<br>
+*Gallus gallus* (chicken)<br>
+*Paroedura picta* (Madagascar ground gecko)<br>
+*Monodelphis domestica* (gray short-tailed opossum)<br>
+*Homo sapiens* (human)<br>
 
 To be included in the future:<br>
-*Pleurodeles waltl*
+*Pleurodeles waltl* (Iberian ribbed newt)
