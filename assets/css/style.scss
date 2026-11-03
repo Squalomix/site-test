@@ -1,6 +1,7 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap');
 @import "{{ site.theme }}";
 
 /* Squalomix layout overrides on top of jekyll-theme-minimal.
@@ -25,11 +26,25 @@ header, footer { position: static; }
    column (i.e. the main width excluding the left menu). */
 .home-banner { display: block; width: 100%; height: auto; margin: 0 0 20px; }
 
-.sidenav ul { list-style: none; margin: 0 0 8px; padding: 0; }.sidenav li { margin: 3px 0; font-size: 14px; }
+.sidenav ul { list-style: none; margin: 0 0 8px; padding: 0; }.sidenav li { margin: 3px 0; font-size: 15px; }
 .sidenav h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: #777; margin: 16px 0 4px; }
 .sidenav a.active { font-weight: 700; color: #222; }
 header img { max-width: 170px; }
-section table { font-size: 13px; }
+section table { font-size: 15px; }
+
+/* Inter (with Noto Sans JP for Japanese text) as the site font,
+   slightly larger overall than the theme default. */
+body { font-family: "Inter", "Noto Sans JP", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.65; }
+
+/* Home page video thumbnail: cap the width instead of letting it
+   span the whole content column. */
+.video-thumb { width: 480px; max-width: 100%; height: auto; }
+
+/* Social icons (official Bluesky / X logos) in the sidebar. */
+.social-icons a { display: inline-block; margin-right: 12px; }
+.social-icons svg { width: 20px; height: 20px; vertical-align: middle; }
+.social-icons .icon-bsky { fill: #0285FF; }
+.social-icons .icon-x { fill: #000000; }
 
 @media screen and (min-width: 961px) {
   .wrapper { width: 1200px; max-width: 96vw; }
