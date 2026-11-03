@@ -51,6 +51,6 @@ Full chronology: [History](history.md).
 
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).
 
-[![Watch the video](assets/movie.png)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s)
+<a href="https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s"><img class="video-thumb" src="assets/movie.png" alt="Watch the video"></a>
 
 *Last updated: (mock — set on build)*
