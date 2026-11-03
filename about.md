@@ -23,6 +23,8 @@ Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genet
 
 The consortium is based at the National Institute of Genetics (NIG), and its activities have been supported by RIKEN and NIG, by the Japan Society for the Promotion of Science (JSPS), and by commissioned projects of the Fisheries Agency of Japan.
 
+<div class="accent-bar" aria-hidden="true"></div>
+
 ## コンソーシアムの概要
 
 Squalomix（スクアロミクス）は、サメ・エイ・ギンザメなどの軟骨魚類を対象に、ゲノムをはじめとする分子レベルの情報を読み解き、その多様性と進化の理解を目指すコンソーシアムです。2020年に発足し、国立遺伝学研究所・分子生命史研究室（代表：Shigehiro Kuraku）が中心となって、水族館や臨海実験所、国内外の研究機関と連携しながら活動しています。染色体レベルのゲノム解読に、核型やゲノムサイズの実測、細胞培養による検証を組み合わせるのが特徴で、得られたデータと解析手法は順次公開しています。詳しくは [Home](index.md) と [History](history.md) をご覧ください。

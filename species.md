@@ -8,6 +8,8 @@ permalink: /species/
 
 We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrificing adults, while also supporting laboratory experimentation. Please see [this post at Nature Research Community](https://communities.springernature.com/posts/decoding-shark-genomes-why-did-we-choose-those-species) for more details of our species choice. We are working on the species listed below for transcriptome or/and genome sequencing. 
 
+<div class="accent-bar" aria-hidden="true"></div>
+
 Status of sequencing data acquisition<br>
 T, transcriptome reads<br>
 S, illumina short genomic reads<br>
