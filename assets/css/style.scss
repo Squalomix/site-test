@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Squalomix layout overrides on top of jekyll-theme-minimal.
+   - Desktop (>=961px): left sidebar menu stays, but the content column is
+     widened (theme default is 500px) so the species table and the
+     publications list fit comfortably.
+   - Narrow screens (<=960px): the theme already stacks the header on top;
+     we additionally lay the menu out horizontally and let wide tables
+     scroll sideways inside the content column. */
+
+.sidenav ul { list-style: none; margin: 0 0 8px; padding: 0; }
+.sidenav li { margin: 3px 0; font-size: 14px; }
+.sidenav h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: #777; margin: 16px 0 4px; }
+.sidenav a.active { font-weight: 700; color: #222; }
+header img { max-width: 100%; }
+section table { font-size: 13px; }
+
+@media screen and (min-width: 961px) {
+  .wrapper { width: 1200px; max-width: 96vw; }
+  header { width: 250px; }
+  section { width: calc(100% - 300px); }
+  footer { width: 250px; }
+}
+
+@media screen and (max-width: 960px) {
+  .sidenav ul { display: flex; flex-wrap: wrap; gap: 2px 16px; }
+  .sidenav h3 { margin-top: 10px; }
+  header img { max-width: 220px; }
+  section table { display: block; overflow-x: auto; }
+}
