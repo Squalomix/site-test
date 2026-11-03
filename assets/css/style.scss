@@ -11,9 +11,15 @@
      we additionally lay the menu out horizontally and let wide tables
      scroll sideways inside the content column. */
 
-/* Gradient accent bar across the top of the main width
-   (pale lavender -> blue -> teal -> deep blue). Purely decorative. */
-.accent-bar { height: 12px; margin: 0 0 28px; background: linear-gradient(90deg, #E0E5F7 0%, #B4CAF0 25%, #9AC6F0 38%, #71B6CE 50%, #429F99 62%, #29739F 75%, #1B3BC7 88%, #0E03EF 100%); }
+/* Gradient accent bar, used inside page bodies as a divider at
+   section boundaries (pale lavender -> blue -> teal -> deep blue).
+   Purely decorative. */
+.accent-bar { height: 10px; margin: 26px 0 18px; background: linear-gradient(90deg, #E0E5F7 0%, #B4CAF0 25%, #9AC6F0 38%, #71B6CE 50%, #429F99 62%, #29739F 75%, #1B3BC7 88%, #0E03EF 100%); }
+
+/* The stock theme fixes the header and footer on wide screens; with
+   our long menu the footer then overlaps the menu's lower items.
+   Keep both in the normal flow so nothing is cut off or overlapped. */
+header, footer { position: static; }
 
 /* Existing Squalomix banner, at the top of the home page content
    column (i.e. the main width excluding the left menu). */
@@ -22,7 +28,7 @@
 .sidenav ul { list-style: none; margin: 0 0 8px; padding: 0; }.sidenav li { margin: 3px 0; font-size: 14px; }
 .sidenav h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: #777; margin: 16px 0 4px; }
 .sidenav a.active { font-weight: 700; color: #222; }
-header img { max-width: 100%; }
+header img { max-width: 170px; }
 section table { font-size: 13px; }
 
 @media screen and (min-width: 961px) {
@@ -35,6 +41,6 @@ section table { font-size: 13px; }
 @media screen and (max-width: 960px) {
   .sidenav ul { display: flex; flex-wrap: wrap; gap: 2px 16px; }
   .sidenav h3 { margin-top: 10px; }
-  header img { max-width: 220px; }
+  header img { max-width: 170px; }
   section table { display: block; overflow-x: auto; }
 }
