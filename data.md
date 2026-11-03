@@ -6,9 +6,11 @@ permalink: /data/
 
 # Data & Tools
 
-The sequence data reported in our publications are deposited at NCBI, under the consortium's [BioProject entry (PRJNA707598)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707598). All products of the consortium, grouped by type, are listed below. Detailed datasets and protocols have their own pages on this site (see "Topics" in the menu on the left); most of those pages are maintained in their own GitHub repositories, linked at the top of each page.
+This page collects the data products and technical outputs of the consortium, grouped by type. The sequence data reported in our publications are deposited at NCBI, under the consortium's [BioProject entry (PRJNA707598)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707598). Detailed datasets and protocols have their own pages on this site (see "Topics" in the menu on the left).
 
 ## Our technical basis
+
+The capability behind these products was built over years of operating a DNA sequencing facility. From 2012, Shigehiro Kuraku, the Leader of Squalomix, supervised the genome analysis facility at the RIKEN Kobe Campus — first as the Genome Resource and Analysis Unit of RIKEN CDB and later as the Laboratory for Phyloinformatics of RIKEN BDR, which harbours a DNA Analysis Facility — serving genome projects of many research groups, on a wide range of organisms and sample conditions. Working through demanding material, project after project — samples that were minute, degraded, or from species with no genomic precedent — refined our DNA extraction, library preparation, and data analysis. That accumulated craft is what allowed us to take on the large, repeat-rich genomes of sharks and rays.
 
 For our previous publication in 2018, we produced all short read sequence data in-house at the DNA Analysis Facility operated inside the [Laboratory for Phyloinformatics, RIKEN BDR](https://www.bdr.riken.jp/en/research/labs/kuraku-s/). Our genome assembly also employed mate-pair reads produced with [our protocol guide 'iMate'](https://www.slideshare.net/xsighex/imate-protocol-guide-version-20).
 

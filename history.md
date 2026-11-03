@@ -6,7 +6,7 @@ permalink: /history/
 
 # History
 
-The chronological information about our activity before and after the launch of the project is included below. Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of [this article](https://www.nature.com/articles/s41559-018-0673-5) in 2018 for the information about earlier genomic studies.
+Squalomix builds on a long-standing effort to bring genome analysis to sharks and rays, a group long left behind in the genomics era. The effort began in earnest with the first genome sequences of three shark species — brownbanded bamboo shark, cloudy catshark, and whale shark — published in 2018 together with tissue-level gene expression profiles and epigenomic data ([Hara et al., 2018](https://www.nature.com/articles/s41559-018-0673-5)); the introductory paragraphs of that paper review the genomic studies that preceded it. The technical foundation for this work was laid at RIKEN Kobe, where Shigehiro Kuraku, the Leader of Squalomix, supervised the campus DNA sequencing facility from 2012 (see [Data & Tools](data.md)). In September 2020, the activity was formally launched as the Squalomix consortium, based at the National Institute of Genetics, and its scope and organization were set out in our position paper in 2022. The chronology below traces our activity before and after the launch.
 
 |Year-Month| Event|
 |----|----|
