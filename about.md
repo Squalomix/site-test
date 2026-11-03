@@ -10,14 +10,21 @@ permalink: /about/
 
 Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genetics, Japan, where he heads the [Molecular Life History Laboratory](https://www.treethinkers.info/squalomix).
 
-## Collaborations and societal contributions
+<div class="accent-bar" aria-hidden="true"></div>
+
+## Collaborations
 
 - **Earth BioGenome Project (EBP)** — Squalomix is an [affiliated project](https://www.earthbiogenome.org/affiliated-project-networks) of this global initiative to sequence life on Earth, since 2020.
 - **European Reference Genome Atlas (ERGA)** — [partnership](https://www.erga-biodiversity.eu/) in the pan-European effort to produce reference genomes for biodiversity research, since 2025.
 - **Shark-References** — [partnership](https://shark-references.com/) with the literature and taxonomy database for chondrichthyan research, since 2025.
+- **Aquariums and marine stations** — public aquariums and marine stations collaborate with us in sampling, giving access to rare and endangered species that are otherwise inaccessible, as in our long-standing work with Okinawa Churaumi Aquarium on the whale shark. We collaborate with the following aquariums: Okinawa Churaumi Aquarium, Osaka Aquarium Kaiyukan, Aquamarine Fukushima, Marine Science Museum (Tokai University), Aqua Park Shinagawa, Shimoda Aquarium, Suma Aqualife Park, Enoshima Aquarium, Aqua World Oarai, Georgia Aquarium (USA), Yokohama Hakkeijima Sea Paradise, Marine World Uminonakamichi, Izu Mito Sea Paradise, Yogyo Aquarium, Kyoto Aquarium, and Takeshima Aquarium. Our partners also include Izu Chuo Suisan, the Ushimado Marine Institute of Okayama University, and Centro Studi Squali in Italy.
+
+<div class="accent-bar" aria-hidden="true"></div>
+
+## Societal contributions
+
 - **Fisheries science and stock assessment (ICCAT / FRA)** — Through the Fisheries Research and Education Agency (FRA), Japan, we contribute to the Shark Research and Data Collection Programme (SRDCP) of the [International Commission for the Conservation of Atlantic Tunas (ICCAT)](https://www.iccat.int/), in particular its genome-wide genetic study of porbeagle stock structure and kinship, ongoing since 2022.
 - **Japanese Red List Genome Project** — the Kuraku Lab contributes to this project, which catalogues the availability of genome sequences for endangered species in Japan ([project page](https://treethinkers.nig.ac.jp/redlist/)).
-- **Aquariums and marine stations** — public aquariums and marine stations collaborate with us in sampling, giving access to rare and endangered species that are otherwise inaccessible, as in our long-standing work with Okinawa Churaumi Aquarium on the whale shark. Staff of the following aquariums are among the co-authors of our consortium papers: Okinawa Churaumi Aquarium, Osaka Aquarium Kaiyukan, Aquamarine Fukushima, Marine Science Museum (Tokai University), Aqua Park Shinagawa, Shimoda Aquarium, Suma Aqualife Park, Enoshima Aquarium, Aqua World Oarai, and Georgia Aquarium (USA). We also collaborate with Yokohama Hakkeijima Sea Paradise, Marine World Uminonakamichi, Izu Mito Sea Paradise, Yogyo Aquarium, Kyoto Aquarium, and Takeshima Aquarium, as well as with non-aquarium partners including Izu Chuo Suisan, the Ushimado Marine Institute of Okayama University, and Centro Studi Squali in Italy.
 
 ## Funding
 
