@@ -29,7 +29,7 @@ header, footer { position: static; }
 .sidenav ul { list-style: none; margin: 0 0 8px; padding: 0; }.sidenav li { margin: 3px 0; font-size: 15px; }
 .sidenav h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: #777; margin: 16px 0 4px; }
 .sidenav a.active { font-weight: 700; color: #222; }
-header img { max-width: 170px; }
+header img { max-width: 170px; border-radius: 50%; }
 section table { font-size: 15px; }
 
 /* Inter (with Noto Sans JP for Japanese text) as the site font,
