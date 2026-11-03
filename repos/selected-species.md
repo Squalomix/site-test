@@ -25,8 +25,10 @@ The world's largest fish, and a long-standing subject of our collaboration with 
 | Assembly | Level | Technology | Publication |
 |---|---|---|---|
 | Rtypus_kobe_v1.0 ([figshare](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863)) | Scaffold | Illumina short reads + mate-pair | [Hara et al., 2018](https://doi.org/10.1038/s41559-018-0673-5) |
-| [sRhiTyp1.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.1/) (GCA_021869965.1) | Chromosome | Hi-C scaffolding | [Yamaguchi et al., 2023](https://genome.cshlp.org/content/33/9/1527) |
-| [sRhiTyp1.2](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.2/) (GCA_021869965.2) | Chromosome | Long reads + Hi-C (near gap-free) | [Kawaguchi et al., 2026](https://doi.org/10.1093/gigascience/giag014) |
+| [sRhiTyp1.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.1/) (GCA_021869965.1) | Chromosome | 10X Linked Reads + Hi-C scaffolding | [Yamaguchi et al., 2023](https://genome.cshlp.org/content/33/9/1527) |
+| [sRhiTyp1.2](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.2/) (GCA_021869965.2) | Chromosome | Long reads (ONT) + Hi-C | [Kawaguchi et al., 2026](https://doi.org/10.1093/gigascience/giag014) |
+
+We also contributed our data production to a parallel effort on an individual reared in Georgia Aquarium, US, with Milton Tan and his collaborators ([Tan et al., eLife, 2021](https://doi.org/10.7554/eLife.65394)).
 
 ## Cloudy catshark *Scyliorhinus torazame*
 

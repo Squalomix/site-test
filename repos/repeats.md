@@ -10,13 +10,13 @@ GitHub repository: [Squalomix/repeats](https://github.com/Squalomix/repeats)
 
 ## Our experience in repeat detection
 
-Exaustive identification of de novo (species/taxon-specific) repetitive elements is crucial in achieving thorough detection of repetitive regions in the genome of question. It has become a standard strategy in the genomicists' community, to perform a repeat library construction with [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/) and later execute [RepeatMakser](https://www.repeatmasker.org/) using the repeat library constructed by RepeatModeler. Overall performance of repeat detection largely varies depending on the way how these programs are used, as repeatedly cautioned (e.g., [Platt et al., 2016](https://academic.oup.com/gbe/article/8/2/403/2574076)). This document covers some practical topics that users could consider for achieving the maximal outcome.
+Exhaustive identification of de novo (species/taxon-specific) repetitive elements is crucial in achieving thorough detection of repetitive regions in the genome in question. It has become a standard strategy in the genomicists' community, to perform a repeat library construction with [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/) and later execute [RepeatMasker](https://www.repeatmasker.org/) using the repeat library constructed by RepeatModeler. Overall performance of repeat detection largely varies depending on the way how these programs are used, as repeatedly cautioned (e.g., [Platt et al., 2016](https://academic.oup.com/gbe/article/8/2/403/2574076)). This document covers some practical topics that users could consider for achieving the maximal outcome.
 
 Our recent technical effort on elasmobranch genomes was published in [Kuraku et al., Genome Res 2026](https://genome.cshlp.org/content/36/8/1708), and that on non-elasmobranch genomes is reported in a preprint by [Ogawa et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.10.12.757905v1).
 
 ## Make sure your RepeatModeler runs properly with the '-LTRStruct' option
 
-When RepeatModeler is run, the option `-LTRStruct` is expected to reliably  identified. However, under some particular conditions of RepeatModeder installation, this function is disabled. If the repeat library file 'genome-families.fa' produced by RepeatModeler includes the repeat models whose header line starts with 'ltr-' in addition to those starting with 'rnd-' (like inserted below), your RepeatModeler runs properly with the `-LTRStruct` option. If there is no repeat model with 'ltr-', this means that your RepeatModeler did not run properly with this option. The problem is that RepeatModeler itself just skips the step and continues to run to to the end, producing no explicit error.
+When RepeatModeler is run, the option `-LTRStruct` is expected to be reliably identified. However, under some particular conditions of RepeatModeler installation, this function is disabled. If the repeat library file 'genome-families.fa' produced by RepeatModeler includes the repeat models whose header line starts with 'ltr-' in addition to those starting with 'rnd-' (like inserted below), your RepeatModeler runs properly with the `-LTRStruct` option. If there is no repeat model with 'ltr-', this means that your RepeatModeler did not run properly with this option. The problem is that RepeatModeler itself just skips the step and continues to run to the end, producing no explicit error.
 ```
 ...CTTTGCAAACACTATGATTTTGGCTATCTTGGAGAACAATACAAGGA
 ACATAAC
@@ -56,7 +56,7 @@ LTR Structural Analysis: Enabled ( GenomeTools 0.6.5, LTR_Retriever v2.9.0,
                                    Ninja , MAFFT 7.475,
                                    CD-HIT 4.8.1 )
 ```                                   
-Here is another error produced when RepeatModelder ran with an appropriate version of GenomeTools but not with an appropriate version of ninja. More useful  information can be found in [issues raised for the RepeatModeler program at Github](https://github.com/Dfam-consortium/RepeatModeler/issues).
+Here is another error produced when RepeatModeler ran with an appropriate version of GenomeTools but not with an appropriate version of ninja. More useful  information can be found in [issues raised for the RepeatModeler program at Github](https://github.com/Dfam-consortium/RepeatModeler/issues).
 ```
 LTR Structural Analysis
  =======================
@@ -88,7 +88,7 @@ LTRPipeline Time: 22:58:50 (hh:mm:ss) Elapsed Time
 
 ## Use more options for RepeatMasker
 
-When RepeatMasker is run, consider setting the options `-s` (sensitive mode) and `-nolow` (no masking of low complexity repeats, e.g., for softmasking-aware gene prediction). There are more options such as `-noint` or `-norna` that may allow more desiable repeat masking suitable to your expectation for downstream data processing.
+When RepeatMasker is run, consider setting the options `-s` (sensitive mode) and `-nolow` (no masking of low complexity repeats, e.g., for softmasking-aware gene prediction). There are more options such as `-noint` or `-norna` that may allow more desirable repeat masking suitable to your expectation for downstream data processing.
 
 ## Masking simple tandem repeats
 

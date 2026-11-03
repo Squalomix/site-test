@@ -14,13 +14,13 @@ The table below was derived from the Supplementary Table of [Uno et al., Commun 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Chimaeriformes | *Chimaera monstrosa* | 86 | 1 | | |
 | | *Hydrolagus colliei* | ca. 58 | 2 | | |
-| Carcharhiniformes | *Carcharhinus acronotus* | ca. 86 | 3, 4, 6 | Only partially reported^1^ | 6 |
-| | *Carcharhinus limbatus* | ca. 86 | 3, 4, 6 | Only partially reported^1^ | 6 |
+| Carcharhiniformes | *Carcharhinus acronotus* | ca. 86 | 3, 4, 6 | Only partially reported<sup>1</sup> | 6 |
+| | *Carcharhinus limbatus* | ca. 86 | 3, 4, 6 | Only partially reported<sup>1</sup> | 6 |
 | | *Carcharhinus obscurus* | ca. 78 | 5 | | |
 | | *Carcharhinus plumbeus* | ca. 74 | 5 | | |
 | | *Galeocerdo cuvier* | 86 | 3, 4, 6 | | |
 | | *Prionace glauca* | 78, 86 | 5, 7 | | |
-| | *Rhizoprionodon terraenovae* | ca. 90 | 3, 4, 6 | Reported by unknown sex^2^ | 6 |
+| | *Rhizoprionodon terraenovae* | ca. 90 | 3, 4, 6 | Reported by unknown sex<sup>2</sup> | 6 |
 | | *Atelomycterus marmoratus* | 76 | 8 | | |
 | | *Cephaloscyllium umbratile* | 64 | 9 | | |
 | | *Cephaloscyllium ventriosum* | 64 | 3, 4 | | |
@@ -31,8 +31,8 @@ The table below was derived from the Supplementary Table of [Uno et al., Commun 
 | | *Mustelus canis* | 80 | 4 | | |
 | | *Mustelus manazo* | 68 | 13 | | |
 | | *Triakis scyllium* | 72 | 13 | | |
-| | *Triakis semifasciata* | 72 | 3, 6 | Reported by unknown sex^2^ | 6 |
-| Lamniformes | *Carcharodon carcharias* | ca. 82 | 3, 4, 6 | Only partially reported^1^ | 6 |
+| | *Triakis semifasciata* | 72 | 3, 6 | Reported by unknown sex<sup>2</sup> | 6 |
+| Lamniformes | *Carcharodon carcharias* | ca. 82 | 3, 4, 6 | Only partially reported<sup>1</sup> | 6 |
 | | *Carcharias taurus* | ca. 84 | 4 | | |
 | Orectolobiformes | *Chiloscyllium punctatum* | 106 | Uno et al., 2020 | XX/XY | Uno et al., 2020 |
 | | *Chiloscyllium plagiosum* | 106 | Uno et al., 2020 | XX/XY | Uno et al., 2020 |
@@ -47,30 +47,30 @@ The table below was derived from the Supplementary Table of [Uno et al., Commun 
 | Hexanchiformes | *Chlamydoselachus anguineus* | 100 | 14 | | |
 | | *Notorynchus cepedianus* | 104 | 6 | | |
 | Myliobatiformes | *Dasyatis matsubarai* | 64 | 18 | | |
-| | *Dasyatis say* | 68 | 4, 6, 19 | Not reliably reported^3^ | 6, 19 |
+| | *Dasyatis say* | 68 | 4, 6, 19 | Not reliably reported<sup>3</sup> | 6, 19 |
 | | *Hemitrygon akajei* | 72 | 20 | | |
-| | *Hypanus americanus* | 78 | 4, 6 | Only partially reported^4^ | 6 |
+| | *Hypanus americanus* | 78 | 4, 6 | Only partially reported<sup>4</sup> | 6 |
 | | *Hypanus sabinus* | 68 | 19 | XX/XY | 19 |
 | | *Pteroplatytrygon violacea* | 58 | 15 | | |
 | | *Taeniura lymma* | 64 | 12, 21, 22 | | |
 | | *Gymnura micrura* | 56 | 3, 4 | | |
-| | *Mobula japonica* | 66 | 23 | Not reliably reported^3^ | 23 |
+| | *Mobula japonica* | 66 | 23 | Not reliably reported<sup>3</sup> | 23 |
 | | *Myliobatis aquila* | 52 | 15 | | |
 | | *Myliobatis californica* | 52 | 3, 4, 6 | | |
-| | *Myliobatis freminvillii* | 52 | 3, 4, 6 | Only partially reported^1^ | 6 |
+| | *Myliobatis freminvillii* | 52 | 3, 4, 6 | Only partially reported<sup>1</sup> | 6 |
 | | *Myliobatis tobijei* | 54 | 20 | | |
 | | *Platyrhinoidis triseriata* | 64 | 3, 6 | XX/XY | 6 |
 | | *Paratrygon aiereba* | 90 | 24 | | |
 | | *Plesiotrygon iwamae* | 74 | 25 | | |
 | | *Potamotrygon* aff. *motoro* | 66 | 3, 26 | X1X1X2X2/X1X2Y | 26 |
 | | *Potamotrygon* aff. *wallacei* | 68 | 25 | | |
-| | *Potamotrygon amazona* | 66 | 25 | Only partially reported^1^ | 25 |
+| | *Potamotrygon amazona* | 66 | 25 | Only partially reported<sup>1</sup> | 25 |
 | | *Potamotrygon constellata* | 66 | 25 | | |
 | | *Potamotrygon falkneri* | 66 | 26 | X1X1X2X2/X1X2Y | 26 |
 | | *Potamotrygon leopoldi* | 64 | 25 | | |
-| | *Potamotrygon motoro* | 66 | 24, 25, 27 | X1X1X2X2/X1X2Y^5^ | 27 |
+| | *Potamotrygon motoro* | 66 | 24, 25, 27 | X1X1X2X2/X1X2Y<sup>5</sup> | 27 |
 | | *Potamotrygon orbignyi* | 66 | 24, 25 | XX/XY | 25 |
-| | *Potamotrygon scobina* | 66 | 25 | Only partially reported^1^ | 25 |
+| | *Potamotrygon scobina* | 66 | 25 | Only partially reported<sup>1</sup> | 25 |
 | | *Potamotrygon wallacei* | 68 | 28 | XX/XO | 28 |
 | | *Rhinoptera bonasus* | 64 | 3, 4 | | |
 | | *Urolophus aurantiacus* | 52 | 20 | | |
@@ -85,9 +85,9 @@ The table below was derived from the Supplementary Table of [Uno et al., Commun 
 | | *Raja eglanteria* | 58 | 3, 4, 6 | | |
 | | *Raja montagui* | 96 | 11, 21, 22 | | |
 | | *Raja polystigma* | 96 | 29 | | |
-| Rhinopristiformes | *Rhinobatos hynnicephalus* | 60 | 30 | Not reliably reported^3^ | 30 |
+| Rhinopristiformes | *Rhinobatos hynnicephalus* | 60 | 30 | Not reliably reported<sup>3</sup> | 30 |
 | | *Rhinobatos productus* | 92 | 3, 6 | XX/XY | 6 |
-| | *Rhinobatos schlegelii* | 64 | 31 | Not reliably reported^3^ | 31 |
+| | *Rhinobatos schlegelii* | 64 | 31 | Not reliably reported<sup>3</sup> | 31 |
 | Torpediniformes | *Narcine brasiliensis* | 28 | 19 | | |
 | | *Narke japonica* | 54 | 32 | | |
 | | *Tetronarce californica* | 82 | 32 | | |
@@ -96,11 +96,11 @@ The table below was derived from the Supplementary Table of [Uno et al., Commun 
 | | *Torpedo nobiliana* | 66 | 34 | | |
 | | *Torpedo torpedo* | 66 | 11, 33 | | |
 
-1Unpaired large- or middle-sized chromosomes were observed in male individuals, but females were not analyzed.  
-2Unpaired large- or middle-sized chromosomes were observed in unknown sex individuals, but males and females were not analyzed. 
-3Male heteromorphic sex chromosomes were observed, but multiple individuals per sex were not analyzed. 
-4Unpaired large- or middle-sized chromosomes were observed in female individuals, but males were not analyzed.  
-5Male heteromorphic sex chromosomes were observed in only the individuals distributed in the Paraná River (Corrientes, Argentina) (ref. 27).
+<sup>1</sup> Unpaired large- or middle-sized chromosomes were observed in male individuals, but females were not analyzed.  
+<sup>2</sup> Unpaired large- or middle-sized chromosomes were observed in unknown sex individuals, but males and females were not analyzed. 
+<sup>3</sup> Male heteromorphic sex chromosomes were observed, but multiple individuals per sex were not analyzed. 
+<sup>4</sup> Unpaired large- or middle-sized chromosomes were observed in female individuals, but males were not analyzed.  
+<sup>5</sup> Male heteromorphic sex chromosomes were observed in only the individuals distributed in the Paraná River (Corrientes, Argentina) (ref. 27).
 
 References:
 1. Nygren, A. & Jahnke, M. Microchromosomes in primitive fishes. Swed. J. Agric.
@@ -117,7 +117,7 @@ evolution and phylogenetic implications. Mar. Freshwater Res. 53, 491–502 (200
 some sharks in the order Carcharhiniformes. Jpn. J. Ichthyol. 42, 21–26 (1995).
 6. Maddock, M. B. & Schwartz, F. J. Elasmobranch cytogenetics: methods and sex
 chromosomes. Bull. Mar. Sci. 58, 147–155 (1996).
-7. Yabu, H. & Ishii, K. Chromosomes of the great blue shark Prionace glauce
+7. Yabu, H. & Ishii, K. Chromosomes of the great blue shark Prionace glauca
 (Linnaeus). Bull. Jpn. Soc. Sci. Fish. 50, 7–10 (1984).
 8. Rocco, L. Sex-related genomic sequences in cartilaginous fish: an overview.
 Cytogenet. Genome Res. 141, 169–176 (2013).
@@ -140,7 +140,7 @@ in Indo-Pacific Fish Biology (ed. Uyeno, T., Arai, R., Tuniuchi, T., &Matsuura, 
 140–147 (Ichthyological Society Japan, 1986).
 16. Nygren, A., Nilsson, B. & Jahnke, M. Cytological studies in Hypotremata and
 Pleurotremata (pisces). Hereditas 67, 275–282 (1971).
-17. Makino, S. The chromosomes of two elasmobranch fishes. Cytologia FujiiJubilaei,
+17. Makino, S. The chromosomes of two elasmobranch fishes. Cytologia Fujii Jubilaei,
 867–876 (1937).
 18. Asahida, T. & Ida, H. Karyotypes of two rays, Torpedo tokionis and Dasyatis
 matsubarai, and their systematic relationships. Jpn. J. Ichthyol. 37, 71–75 (1990).
