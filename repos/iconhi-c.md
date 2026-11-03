@@ -39,3 +39,5 @@ Our Hi-C data production has been performed for diverse species including the sp
 | ***Chimaera phantasma***|silver chimaera|muscle|[Teramura et al., 2026](https://doi.org/10.1093/dnares/dsag003)|
 
 Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
+
+For Hi-C scaffolding we also rely on YaHS; a [technical note for Hi-C scaffolding using YaHS](https://github.com/TkNiw/Note-for-YaHS), prepared by Taiki Niwa based on our internal benchmarking, is available.

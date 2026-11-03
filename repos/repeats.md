@@ -8,11 +8,11 @@ permalink: /repos/repeats/
 
 GitHub repository: [Squalomix/repeats](https://github.com/Squalomix/repeats)
 
-Our recent technical effort on elasmobranch genomes was published in [Kuraku et al., Genome Res 2026](https://genome.cshlp.org/content/36/8/1708), and that on non-elasmobranch genomes is reported in a preprint by [Ogawa et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.10.12.757905v1). Below you find our past experience of repetitive element detection and masking, summarised as practical notes.
-
 ## Our experience in repeat detection
 
 Exaustive identification of de novo (species/taxon-specific) repetitive elements is crucial in achieving thorough detection of repetitive regions in the genome of question. It has become a standard strategy in the genomicists' community, to perform a repeat library construction with [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/) and later execute [RepeatMakser](https://www.repeatmasker.org/) using the repeat library constructed by RepeatModeler. Overall performance of repeat detection largely varies depending on the way how these programs are used, as repeatedly cautioned (e.g., [Platt et al., 2016](https://academic.oup.com/gbe/article/8/2/403/2574076)). This document covers some practical topics that users could consider for achieving the maximal outcome.
+
+Our recent technical effort on elasmobranch genomes was published in [Kuraku et al., Genome Res 2026](https://genome.cshlp.org/content/36/8/1708), and that on non-elasmobranch genomes is reported in a preprint by [Ogawa et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.10.12.757905v1).
 
 ## Make sure your RepeatModeler runs properly with the '-LTRStruct' option
 
