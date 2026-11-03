@@ -16,6 +16,7 @@ There are other parties working on chondrichthyan genes and genomes and other ki
 
 ## Other useful resources
 
+[The Squalomix species list at GoaT (Genomes on a Tree)](https://goat.genomehubs.org/search?query=long_list%3Dsqualomix&result=taxon&summaryValues=count&taxonomy=ncbi&offset=0&fields=assembly_level%2Cassembly_span%2Cc_value%2Cgenome_size%2Clong_list%2Cother_priority%2Cfamily_representative&includeEstimates=false#long_list%3Dsqualomix)<br>
 [Shark References](https://www.shark-references.com/)<br>
 [Eschmeyer's Catalog of Fishes](https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp?_gl=1*15hauts*_gcl_au*MTc3Mzk4NzQ1OS4xNzI0ODg4Mzk2*_ga*ODU0OTE5ODYyLjE3MjQ4ODgzOTY.*_ga_6Y72VP61VZ*MTcyNDg4ODM5NS4xLjAuMTcyNDg4ODM5OC41Ny4wLjA.)<br>
 [Listing of developmental staging studies on a chondrichthyan species](https://github.com/Squalomix/devstage/)<br>

@@ -41,5 +41,3 @@ Papers produced under, or closely associated with, the Squalomix Consortium, in 
 ## Preprints
 
 - PCR-based sexing of elasmobranchs. *bioRxiv*, 2026. [Preprint](https://www.biorxiv.org/content/10.64898/2026.05.02.722412v1)
-
-*This list is a mock assembled from links already present on the current site (species table and chronology); titles and author lists to be completed on adoption.*
