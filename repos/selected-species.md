@@ -6,15 +6,36 @@ permalink: /selected-species/
 
 # Selected species
 
-Among the [species we work on](../species.md), a small number serve as our flagship species (marked with # in the [Species list](../species.md)). For these species we have generated data well beyond genome assemblies — transcriptomes, gene expression profiles, karyotype data and other resources — and they anchor much of the consortium's experimental and comparative work. This page introduces them one by one.
+Among the [species we work on](../species.md), a small number anchor the consortium's work: for these species we have generated data well beyond a single genome assembly — transcriptomes, gene expression profiles, karyotype data and other resources. For three of them, the brownbanded bamboo shark, the whale shark and the cloudy catshark, we have released a succession of genome assemblies over the years, summarised in the tables below so that the assembly level, the technology used and the corresponding publication can be told apart at a glance.
 
 ## Brownbanded bamboo shark *Chiloscyllium punctatum*
 
-One of the two egg-laying species we chose first, to facilitate sustainable sampling without sacrificing adults while also supporting laboratory experimentation. Its genome was among the first shark genomes reported ([Hara et al., 2018](https://doi.org/10.1038/s41559-018-0673-5)), followed by an improved assembly (Cpunctatum_v2.1) and, most recently, a HiFi + Hi-C assembly used to identify the oldest vertebrate sex chromosomes ([Niwa et al., 2025](https://www.pnas.org/doi/10.1073/pnas.2513676122)). A Trinity transcriptome assembly, curated gene models and a [gene expression profile](https://figshare.com/articles/dataset/Chilocyllium_punctatum_gene_expression_profiles_v1/20549634) (figshare) are also available; see [Sequences](sequences.md) for file links.
+One of the two egg-laying species we chose first, to facilitate sustainable sampling without sacrificing adults while also supporting laboratory experimentation. Alongside the assemblies, a Trinity transcriptome assembly, curated gene models and a [gene expression profile](https://figshare.com/articles/dataset/Chilocyllium_punctatum_gene_expression_profiles_v1/20549634) (figshare) are available; see [Sequences](sequences.md) for file links. Its karyotype is 2n = 106 (see [Karyotypes](karyotype.md)).
+
+| Assembly | Level | Technology | Publication |
+|---|---|---|---|
+| [Cpunctatum_v1.0](https://www.ncbi.nlm.nih.gov/assembly/GCA_003427335.1/) (GCA_003427335.1) | Scaffold | Illumina short reads + mate-pair | [Hara et al., 2018](https://doi.org/10.1038/s41559-018-0673-5) |
+| [Cpunctatum_v2.1](https://figshare.com/articles/dataset/Brownbanded_bamboo_shark_C_punctatum_genome_assemby_Cpunctatum_v2_1/11796747) | Scaffold | Proximity-guided (Chicago) scaffolding of v1.0 | [Kadota et al., 2020](https://www.nature.com/articles/s41598-020-71602-w) |
+| [sChiPun1.3](https://www.ncbi.nlm.nih.gov/assembly/GCA_047496795.1/) (GCA_047496795.1) | Chromosome | PacBio HiFi + Hi-C | [Niwa et al., 2025](https://www.pnas.org/doi/10.1073/pnas.2513676122) |
+
+## Whale shark *Rhincodon typus*
+
+The world's largest fish, and a long-standing subject of our collaboration with public aquariums, which made repeated sampling of this endangered species possible. Its genome has been assembled three times in succession, each time improving contiguity and completeness, and transcriptome data accompany the assemblies (see [Sequences](sequences.md)).
+
+| Assembly | Level | Technology | Publication |
+|---|---|---|---|
+| Rtypus_kobe_v1.0 ([figshare](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863)) | Scaffold | Illumina short reads + mate-pair | [Hara et al., 2018](https://doi.org/10.1038/s41559-018-0673-5) |
+| [sRhiTyp1.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.1/) (GCA_021869965.1) | Chromosome | Hi-C scaffolding | [Yamaguchi et al., 2023](https://genome.cshlp.org/content/33/9/1527) |
+| [sRhiTyp1.2](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.2/) (GCA_021869965.2) | Chromosome | Long reads + Hi-C (near gap-free) | [Kawaguchi et al., 2026](https://doi.org/10.1093/gigascience/giag014) |
 
 ## Cloudy catshark *Scyliorhinus torazame*
 
-The other of our two founding egg-laying species, and a main laboratory model of the consortium. As with the bamboo shark, its genome was reported in [Hara et al., 2018](https://doi.org/10.1038/s41559-018-0673-5) and renewed with HiFi + Hi-C data in [Niwa et al., 2025](https://www.pnas.org/doi/10.1073/pnas.2513676122). A Trinity transcriptome assembly and a [gene expression profile](https://figshare.com/articles/dataset/Scyliorhinus_torazame_gene_expression_profiles_v1/20549586) (figshare) accompany the genome assemblies; see [Sequences](sequences.md) for file links.
+The other of our two founding egg-laying species, and a main laboratory model of the consortium. A Trinity transcriptome assembly and a [gene expression profile](https://figshare.com/articles/dataset/Scyliorhinus_torazame_gene_expression_profiles_v1/20549586) (figshare) accompany the genome assemblies; see [Sequences](sequences.md) for file links. Its karyotype is 2n = 64 (see [Karyotypes](karyotype.md)).
+
+| Assembly | Level | Technology | Publication |
+|---|---|---|---|
+| [Storazame_v1.0](https://www.ncbi.nlm.nih.gov/assembly/GCA_003427355.1/) (GCA_003427355.1) | Scaffold | Illumina short reads + mate-pair | [Hara et al., 2018](https://doi.org/10.1038/s41559-018-0673-5) |
+| [sScyTor2.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_047496885.1/) (GCA_047496885.1) | Chromosome | PacBio HiFi + Hi-C | [Niwa et al., 2025](https://www.pnas.org/doi/10.1073/pnas.2513676122) |
 
 ## Zebra shark *Stegostoma tigrinum*
 
