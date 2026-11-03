@@ -10,7 +10,6 @@
   </head>
   <body>
     <div class="wrapper">
-      <div class="accent-bar" aria-hidden="true"></div>
       <header>
         {% if site.logo %}
           <img src="{{ site.logo | relative_url }}" alt="Squalomix" />
@@ -26,6 +25,7 @@
           <ul>
             <li><a href="{{ "/" | relative_url }}">Home</a></li>
             <li><a href="{{ "/about/" | relative_url }}">About</a></li>
+            <li><a href="{{ "/history/" | relative_url }}">History</a></li>
             <li><a href="{{ "/species/" | relative_url }}">Species</a></li>
             <li><a href="{{ "/data/" | relative_url }}">Data &amp; Tools</a></li>
             <li><a href="{{ "/publications/" | relative_url }}">Publications</a></li>
@@ -33,7 +33,6 @@
           </ul>
           <h3>Topics</h3>
           <ul>
-            <li><a href="{{ "/repos/sequences/" | relative_url }}">Sequences</a></li>
             <li><a href="{{ "/selected-species/" | relative_url }}">Selected species</a></li>
             <li><a href="{{ "/repos/c-value/" | relative_url }}">Genome sizes</a></li>
             <li><a href="{{ "/repos/karyotype/" | relative_url }}">Karyotypes</a></li>
