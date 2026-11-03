@@ -10,7 +10,7 @@ Among the [species we work on](../species.md), a small number anchor the consort
 
 ## Brownbanded bamboo shark *Chiloscyllium punctatum*
 
-One of the two egg-laying species we chose first, to facilitate sustainable sampling without sacrificing adults while also supporting laboratory experimentation. Alongside the assemblies, a Trinity transcriptome assembly, curated gene models and a [gene expression profile](https://figshare.com/articles/dataset/Chilocyllium_punctatum_gene_expression_profiles_v1/20549634) (figshare) are available; see the [Sequence data archive](#sequence-data-archive) below. The expression profile is based on read mapping onto the non-chromosomal, scaffold-level assembly available at the time of Hara et al., 2018; re-quantification on the latest chromosome-scale assembly is in preparation. Its karyotype is 2n = 106 (see [Karyotypes](karyotype.md)). CTCF ChIP-seq data obtained for this species have also been released (DDBJ Sequence Read Archive, DRA006338) and underlie the discovery of the early vertebrate origin of CTCFL ([Kadota et al., 2020](https://www.nature.com/articles/s41598-020-71602-w)).
+One of the two egg-laying species we chose first, to facilitate sustainable sampling without sacrificing adults while also supporting laboratory experimentation. Alongside the assemblies, a Trinity transcriptome assembly, curated gene models and a [gene expression profile](https://figshare.com/articles/dataset/Chilocyllium_punctatum_gene_expression_profiles_v1/20549634) (figshare) are available. The expression profile is based on read mapping onto the non-chromosomal, scaffold-level assembly available at the time of Hara et al., 2018; re-quantification on the latest chromosome-scale assembly is in preparation. Its karyotype is 2n = 106 (see [Karyotypes](karyotype.md)). CTCF ChIP-seq data obtained for this species have also been released (DDBJ Sequence Read Archive, DRA006338) and underlie the discovery of the early vertebrate origin of CTCFL ([Kadota et al., 2020](https://www.nature.com/articles/s41598-020-71602-w)).
 
 | Assembly | Level | Technology | Publication |
 |---|---|---|---|
@@ -20,7 +20,7 @@ One of the two egg-laying species we chose first, to facilitate sustainable samp
 
 ## Whale shark *Rhincodon typus*
 
-The world's largest fish, and a long-standing subject of our collaboration with public aquariums, which made repeated sampling of this endangered species possible. Its genome has been assembled three times in succession, each time improving contiguity and completeness, and transcriptome data accompany the assemblies (see the [Sequence data archive](#sequence-data-archive) below).
+The world's largest fish, and a long-standing subject of our collaboration with public aquariums, which made repeated sampling of this endangered species possible. Its genome has been assembled three times in succession, each time improving contiguity and completeness, and transcriptome data accompany the assemblies.
 
 | Assembly | Level | Technology | Publication |
 |---|---|---|---|
@@ -32,7 +32,7 @@ We also contributed our data production to a parallel effort on an individual re
 
 ## Cloudy catshark *Scyliorhinus torazame*
 
-The other of our two founding egg-laying species, and a main laboratory model of the consortium. A Trinity transcriptome assembly and a [gene expression profile](https://figshare.com/articles/dataset/Scyliorhinus_torazame_gene_expression_profiles_v1/20549586) (figshare) accompany the genome assemblies; see the [Sequence data archive](#sequence-data-archive) below. The expression profile is based on read mapping onto the non-chromosomal, scaffold-level assembly available at the time of Hara et al., 2018; re-quantification on the latest chromosome-scale assembly is in preparation. Its karyotype is 2n = 64 (see [Karyotypes](karyotype.md)). CTCF ChIP-seq data for this species are also publicly available (DDBJ Sequence Read Archive, DRA006338).
+The other of our two founding egg-laying species, and a main laboratory model of the consortium. A Trinity transcriptome assembly and a [gene expression profile](https://figshare.com/articles/dataset/Scyliorhinus_torazame_gene_expression_profiles_v1/20549586) (figshare) accompany the genome assemblies. The expression profile is based on read mapping onto the non-chromosomal, scaffold-level assembly available at the time of Hara et al., 2018; re-quantification on the latest chromosome-scale assembly is in preparation. Its karyotype is 2n = 64 (see [Karyotypes](karyotype.md)). CTCF ChIP-seq data for this species are also publicly available (DDBJ Sequence Read Archive, DRA006338).
 
 | Assembly | Level | Technology | Publication |
 |---|---|---|---|
@@ -50,53 +50,3 @@ One of the rarest large sharks, known from very few specimens. Despite the scarc
 ## Red stingray *Hemitrygon akajei*
 
 Our flagship batoid, representing the skate and ray lineage alongside the shark species above. Its HiFi + Hi-C data underlie our analysis of genome size dynamics across elasmobranchs ([Kuraku et al., 2026](https://genome.cshlp.org/content/36/8/1708)), and it is one of the species for which chromosome-scale assemblies and karyotype data are both in hand; see [Species](../species.md) and [Karyotypes](karyotype.md).
-
-## Sequence data archive
-
-The sequence files released with our publications, originally compiled in the GitHub repository [Squalomix/sequences](https://github.com/Squalomix/sequences), are listed below.
-
-Link to [the Squalomix BLAST page](https://treethinkers.nig.ac.jp/squalomix/blast/)
-<BR>
-<BR>
-
-### Sequence data from Hara et al., 2018
-
-Cite: [Hara et al. "Shark genomes provide insights into elasmobranch evolution and the origin of vertebrates" Nature Ecology & Evolution, 2018. 2: 1761-1771](https://doi.org/10.1038/s41559-018-0673-5)
-
-### Brownbanded bamboo shark *Chiloscyllium punctatum*
-[Cpunctatum_v1.0](https://www.ncbi.nlm.nih.gov/assembly/GCA_003427335.1/): [Gene model (FigShare)](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863)<BR>
-
-### Cloudy catshark *Scyliorhinus torazame*
-[Storazame_v1.0](https://www.ncbi.nlm.nih.gov/assembly/GCA_003427355.1/): [Gene model (FigShare)](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863)
-
-### Whale shark *Rhincodon typus*
-Rtypus_kobe_v1.0: [Files in FigShare](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863)
-
-
-<BR>
-<BR>
-  
-### Sequence data from Kadota et al., Sci Rep 2020
-  
-Cite: [Kadota et al., Sci Rep 2020](https://www.nature.com/articles/s41598-020-71602-w)
-### Brownbanded bamboo shark *Chiloscyllium punctatum*
-  [Cpunctatum_v2.1](https://figshare.com/articles/dataset/Brownbanded_bamboo_shark_C_punctatum_genome_assemby_Cpunctatum_v2_1/11796747)
-
-<BR>
-<BR>
-  
-### Sequence data from Yamaguchi et al., Genome Res 2023 (bioRxiv 2022)
-
-Cite: [Yamaguchi et al., Genome Res 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)
-### Zebra shark *Stegostoma tigrinum* (formerly, *fasciatum*)
-sSteFas1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_022316705.1)<BR>
-
-  ### Whale shark *Rhincodon typus*
-  sRhiTyp1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.1)
-
-<BR>
-<BR>
-  
-  
-### Other resources
-[Taxonomic list of chondrichthyan species with sequenced genomes](http://genomesync.nig.ac.jp/statistics/?cn=7777&tree_depth=10&show=genome&show=species&show=genus&show=family&show=order&show_seq_vs_known=1&genomes=1&show=ags&show=agcc&q=7777&complete=words) displayed at [GenomeSync](https://genomesync.org/).

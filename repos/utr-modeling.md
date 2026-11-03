@@ -14,7 +14,7 @@ Gene models often under-annotate the 3' untranslated regions (UTRs) of transcrip
 
 ## Step-by-step guide for UTR extension
 
-This page provides a third-party guide to modifying an existing GTF file by extending 3'-ends of transcripts using the program [peaks2utr](https://github.com/haessar/peaks2utr). The versions of the programs and example files employed below in this guide follow our own experience with medaka demonstrated as part of the activity of NBRP Medaka Project of Japan. The workflow described on this page was also used to produce the UTR-extended gene models provided in [MedakaBase (DNA Research, 2025)](https://academic.oup.com/dnaresearch/article/32/6/dsaf030/8296684). <br>
+This page provides a third-party guide to modifying an existing GTF file by extending 3'-ends of transcripts using the program [peaks2utr](https://github.com/haessar/peaks2utr). The versions of the programs and example files employed below in this guide follow our own experience with medaka demonstrated as part of the activity of NBRP Medaka Project of Japan [(DNA Research, 2025)](https://academic.oup.com/dnaresearch/article/32/6/dsaf030/8296684). <br>
 
 
 ### 1. Installation
