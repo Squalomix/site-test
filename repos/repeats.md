@@ -6,19 +6,11 @@ permalink: /repos/repeats/
 
 # Repeats
 
-*This page presents the contents of the GitHub repository [Squalomix/repeats](https://github.com/Squalomix/repeats). The repository remains the maintained source; this page is its window on the consortium site.*
+GitHub repository: [Squalomix/repeats](https://github.com/Squalomix/repeats)
 
-[Listing of upcoming conferences](https://tehub.org/en/Conferences) at TEHub <BR>
-[Dfam](https://dfam.org/about) - Dfam paper [Storer et al., 2021](https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-020-00230-y)<BR>
-[RepBase](https://www.girinst.org/)<BR>
-[RepeatMasker](https://www.repeatmasker.org/)<BR>
-[EDTA](https://github.com/oushujun/EDTA/releases) <BR>
-[EarlGrey](https://github.com/TobyBaril/EarlGrey/releases) <BR>
-[TEtrimmer](https://github.com/qjiangzhao/TEtrimmer/releases)<BR>
-[REPET](https://urgi.versailles.inra.fr/Tools/REPET)<BR>
-[RepeatExplorer](http://repeatexplorer.org/)<BR>
+Our recent technical effort on elasmobranch genomes was published in [Kuraku et al., Genome Res 2026](https://genome.cshlp.org/content/36/8/1708), and that on non-elasmobranch genomes is reported in a preprint by [Ogawa et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.10.12.757905v1). Below you find our past experience of repetitive element detection and masking, summarised as practical notes.
 
-# Our experience in repeat detection
+## Our experience in repeat detection
 
 Exaustive identification of de novo (species/taxon-specific) repetitive elements is crucial in achieving thorough detection of repetitive regions in the genome of question. It has become a standard strategy in the genomicists' community, to perform a repeat library construction with [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/) and later execute [RepeatMakser](https://www.repeatmasker.org/) using the repeat library constructed by RepeatModeler. Overall performance of repeat detection largely varies depending on the way how these programs are used, as repeatedly cautioned (e.g., [Platt et al., 2016](https://academic.oup.com/gbe/article/8/2/403/2574076)). This document covers some practical topics that users could consider for achieving the maximal outcome.
 
@@ -110,3 +102,15 @@ tantan -c input.fna > output.fna
 ## Closing words
 
 The pieces of information covered in this page arose from technical development, biological analysis, and discussion by John Rozewicki, Jeremy Berthelier, and Shigehiro Kuraku.
+
+## Links
+
+[Listing of upcoming conferences](https://tehub.org/en/Conferences) at TEHub <BR>
+[Dfam](https://dfam.org/about) - Dfam paper [Storer et al., 2021](https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-020-00230-y)<BR>
+[RepBase](https://www.girinst.org/)<BR>
+[RepeatMasker](https://www.repeatmasker.org/)<BR>
+[EDTA](https://github.com/oushujun/EDTA/releases) <BR>
+[EarlGrey](https://github.com/TobyBaril/EarlGrey/releases) <BR>
+[TEtrimmer](https://github.com/qjiangzhao/TEtrimmer/releases)<BR>
+[REPET](https://urgi.versailles.inra.fr/Tools/REPET)<BR>
+[RepeatExplorer](http://repeatexplorer.org/)<BR>

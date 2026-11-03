@@ -6,7 +6,7 @@ permalink: /repos/medaka-annex/
 
 # Medaka annex
 
-*This page presents the contents of the GitHub repository [Squalomix/medaka-annex](https://github.com/Squalomix/medaka-annex). The repository remains the maintained source; this page is its window on the consortium site.*
+GitHub repository: [Squalomix/medaka-annex](https://github.com/Squalomix/medaka-annex)
 
 The main research group running [Squalomix consortium](https://squalomix.github.io/) also participates in the Medaka seciton of [NBRP (National Bioresource Project)](https://nbrp.jp/en/) administered by [MEXT, Japan](https://www.mext.go.jp/en/). This page catalogues existing data provision sites about medaka fishes and serves as their comprehensive gateway. 
 

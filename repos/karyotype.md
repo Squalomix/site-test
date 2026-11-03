@@ -6,95 +6,95 @@ permalink: /repos/karyotype/
 
 # Karyotypes
 
-*This page presents the contents of the GitHub repository [Squalomix/karyotype](https://github.com/Squalomix/karyotype). The repository remains the maintained source; this page is its window on the consortium site.*
+GitHub repository: [Squalomix/karyotype](https://github.com/Squalomix/karyotype)
 
-The table included below was derived from Suppl Table of Uno et al., Comm Biol 2020
+The table below was derived from the Supplementary Table of [Uno et al., Commun Biol 2020](https://www.nature.com/articles/s42003-020-01373-7). The entries citing 'Uno et al., 2020' in the References columns are the karyotypes newly reported in that study (reference 47 below), which established our cell culture-based karyotyping for elasmobranchs.
 
-| Order | Species name | Chromosome no. (2n) | References | Sex chromosomes | References |
+| Order | *Species name* | Chromosome no. (2n) | References | Sex chromosomes | References |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Chimaeriformes | Chimaera monstrosa | 86 | 1 | | |
-| | Hydrolagus colliei | ca. 58 | 2 | | |
-| Carcharhiniformes | Carcharhinus acronotus | ca. 86 | 3, 4, 6 | Only partially reported^1^ | 6 |
-| | Carcharhinus limbatus | ca. 86 | 3, 4, 6 | Only partially reported^1^ | 6 |
-| | Carcharhinus obscurus | ca. 78 | 5 | | |
-| | Carcharhinus plumbeus | ca. 74 | 5 | | |
-| | Galeocerdo cuvier | 86 | 3, 4, 6 | | |
-| | Prionace glauca | 78, 86 | 5, 7 | | |
-| | Rhizoprionodon terraenovae | ca. 90 | 3, 4, 6 | Reported by unknown sex^2^ | 6 |
-| | Atelomycterus marmoratus | 76 | 8 | | |
-| | Cephaloscyllium umbratile | 64 | 9 | | |
-| | Cephaloscyllium ventriosum | 64 | 3, 4 | | |
-| | Scyliorhinus canicula | 62 | 10, 11, 12 | | |
-| | Scyliorhinus stellaris | 72 | 11, 12 | | |
-| | Scyliorhinus torazame | 64 | 9 | | |
-| | Sphyrna lewini | 78, ca. 82, 86 | 3, 4, 5 | | |
-| | Mustelus canis | 80 | 4 | | |
-| | Mustelus manazo | 68 | 13 | | |
-| | Triakis scyllium | 72 | 13 | | |
-| | Triakis semifasciata | 72 | 3, 6 | Reported by unknown sex^2^ | 6 |
-| Lamniformes | Carcharodon carcharias | ca. 82 | 3, 4, 6 | Only partially reported^1^ | 6 |
-| | Carcharias taurus | ca. 84 | 4 | | |
-| Orectolobiformes | Chiloscyllium punctatum | 106 | Present study | XX/XY | Present study |
-| | Chiloscyllium plagiosum | 106 | Present study | XX/XY | Present study |
-| | Rhincodon typus | 102 | Present study | | |
-| | Stegostoma tigrinum (formerly fasciatum) | 102 | Present study | | |
-| Heterodontiformes | Heterodontus francisci | 102 | 3, 4 | | |
-| | Heterodontus japonicus | 102 | 14 | | |
-| Squatiniformes | Squatina californica | 88 | 3, 6 | | |
-| Squaliformes | Etmopterus spinax | 86 | 1 | | |
-| | Oxynotus centrina | 62 | 15 | | |
-| | Squalus suckleyi | 62, 64, 78 | 1, 6, 16, 17 | | |
-| Hexanchiformes | Chlamydoselachus anguineus | 100 | 14 | | |
-| | Notorynchus cepedianus | 104 | 6 | | |
-| Myliobatiformes | Dasyatis matsubarai | 64 | 18 | | |
-| | Dasyatis say | 68 | 4, 6, 19 | Not reliably reported^3^ | 6, 19 |
-| | Hemitrygon akajei | 72 | 20 | | |
-| | Hypanus americanus | 78 | 4, 6 | Only partially reported^4^ | 6 |
-| | Hypanus sabinus | 68 | 19 | XX/XY | 19 |
-| | Pteroplatytrygon violacea | 58 | 15 | | |
-| | Taeniura lymma | 64 | 12, 21, 22 | | |
-| | Gymnura micrura | 56 | 3, 4 | | |
-| | Mobula japonica | 66 | 23 | Not reliably reported^3^ | 23 |
-| | Myliobatis aquila | 52 | 15 | | |
-| | Myliobatis californica | 52 | 3, 4, 6 | | |
-| | Myliobatis freminvillii | 52 | 3, 4, 6 | Only partially reported^1^ | 6 |
-| | Myliobatis tobijei | 54 | 20 | | |
-| | Platyrhinoidis triseriata | 64 | 3, 6 | XX/XY | 6 |
-| | Paratrygon aiereba | 90 | 24 | | |
-| | Plesiotrygon iwamae | 74 | 25 | | |
-| | Potamotrygon aff. motoro | 66 | 3, 26 | X1X1X2X2/X1X2Y | 26 |
-| | Potamotrygon aff. wallacei | 68 | 25 | | |
-| | Potamotrygon amazona | 66 | 25 | Only partially reported^1^ | 25 |
-| | Potamotrygon constellata | 66 | 25 | | |
-| | Potamotrygon falkneri | 66 | 26 | X1X1X2X2/X1X2Y | 26 |
-| | Potamotrygon leopoldi | 64 | 25 | | |
-| | Potamotrygon motoro | 66 | 24, 25, 27 | X1X1X2X2/X1X2Y^5^ | 27 |
-| | Potamotrygon orbignyi | 66 | 24, 25 | XX/XY | 25 |
-| | Potamotrygon scobina | 66 | 25 | Only partially reported^1^ | 25 |
-| | Potamotrygon wallacei | 68 | 28 | XX/XO | 28 |
-| | Rhinoptera bonasus | 64 | 3, 4 | | |
-| | Urolophus aurantiacus | 52 | 20 | | |
-| | Urolophus halleri | 72 | 3, 4 | | |
-| Rajiformes | Amblyraja radiata | 98 | 16 | | |
-| | Dipturus batis | 98 | 1, 11, 16 | | |
-| | Leucoraja erinacea | 98 | 4 | | |
-| | Leucoraja ocellata | ca. 92 | 4 | | |
-| | Okamejei meerdervoortii | 104 | 17 | | |
-| | Raja asterias | 98 | 4, 15, 22 | | |
-| | Raja clavata | 98 | 16 | | |
-| | Raja eglanteria | 58 | 3, 4, 6 | | |
-| | Raja montagui | 96 | 11, 21, 22 | | |
-| | Raja polystigma | 96 | 29 | | |
-| Rhinopristiformes | Rhinobatos hynnicephalus | 60 | 30 | Not reliably reported^3^ | 30 |
-| | Rhinobatos productus | 92 | 3, 6 | XX/XY | 6 |
-| | Rhinobatos schlegelii | 64 | 31 | Not reliably reported^3^ | 31 |
-| Torpediniformes | Narcine brasiliensis | 28 | 19 | | |
-| | Narke japonica | 54 | 32 | | |
-| | Tetronarce californica | 82 | 32 | | |
-| | Tetronarce tokionis | 86 | 18 | | |
-| | Torpedo marmorata | 86 | 11, 33 | | |
-| | Torpedo nobiliana | 66 | 34 | | |
-| | Torpedo torpedo | 66 | 11, 33 | | |
+| Chimaeriformes | *Chimaera monstrosa* | 86 | 1 | | |
+| | *Hydrolagus colliei* | ca. 58 | 2 | | |
+| Carcharhiniformes | *Carcharhinus acronotus* | ca. 86 | 3, 4, 6 | Only partially reported^1^ | 6 |
+| | *Carcharhinus limbatus* | ca. 86 | 3, 4, 6 | Only partially reported^1^ | 6 |
+| | *Carcharhinus obscurus* | ca. 78 | 5 | | |
+| | *Carcharhinus plumbeus* | ca. 74 | 5 | | |
+| | *Galeocerdo cuvier* | 86 | 3, 4, 6 | | |
+| | *Prionace glauca* | 78, 86 | 5, 7 | | |
+| | *Rhizoprionodon terraenovae* | ca. 90 | 3, 4, 6 | Reported by unknown sex^2^ | 6 |
+| | *Atelomycterus marmoratus* | 76 | 8 | | |
+| | *Cephaloscyllium umbratile* | 64 | 9 | | |
+| | *Cephaloscyllium ventriosum* | 64 | 3, 4 | | |
+| | *Scyliorhinus canicula* | 62 | 10, 11, 12 | | |
+| | *Scyliorhinus stellaris* | 72 | 11, 12 | | |
+| | *Scyliorhinus torazame* | 64 | 9 | | |
+| | *Sphyrna lewini* | 78, ca. 82, 86 | 3, 4, 5 | | |
+| | *Mustelus canis* | 80 | 4 | | |
+| | *Mustelus manazo* | 68 | 13 | | |
+| | *Triakis scyllium* | 72 | 13 | | |
+| | *Triakis semifasciata* | 72 | 3, 6 | Reported by unknown sex^2^ | 6 |
+| Lamniformes | *Carcharodon carcharias* | ca. 82 | 3, 4, 6 | Only partially reported^1^ | 6 |
+| | *Carcharias taurus* | ca. 84 | 4 | | |
+| Orectolobiformes | *Chiloscyllium punctatum* | 106 | Uno et al., 2020 | XX/XY | Uno et al., 2020 |
+| | *Chiloscyllium plagiosum* | 106 | Uno et al., 2020 | XX/XY | Uno et al., 2020 |
+| | *Rhincodon typus* | 102 | Uno et al., 2020 | | |
+| | *Stegostoma tigrinum* (formerly *fasciatum*) | 102 | Uno et al., 2020 | | |
+| Heterodontiformes | *Heterodontus francisci* | 102 | 3, 4 | | |
+| | *Heterodontus japonicus* | 102 | 14 | | |
+| Squatiniformes | *Squatina californica* | 88 | 3, 6 | | |
+| Squaliformes | *Etmopterus spinax* | 86 | 1 | | |
+| | *Oxynotus centrina* | 62 | 15 | | |
+| | *Squalus suckleyi* | 62, 64, 78 | 1, 6, 16, 17 | | |
+| Hexanchiformes | *Chlamydoselachus anguineus* | 100 | 14 | | |
+| | *Notorynchus cepedianus* | 104 | 6 | | |
+| Myliobatiformes | *Dasyatis matsubarai* | 64 | 18 | | |
+| | *Dasyatis say* | 68 | 4, 6, 19 | Not reliably reported^3^ | 6, 19 |
+| | *Hemitrygon akajei* | 72 | 20 | | |
+| | *Hypanus americanus* | 78 | 4, 6 | Only partially reported^4^ | 6 |
+| | *Hypanus sabinus* | 68 | 19 | XX/XY | 19 |
+| | *Pteroplatytrygon violacea* | 58 | 15 | | |
+| | *Taeniura lymma* | 64 | 12, 21, 22 | | |
+| | *Gymnura micrura* | 56 | 3, 4 | | |
+| | *Mobula japonica* | 66 | 23 | Not reliably reported^3^ | 23 |
+| | *Myliobatis aquila* | 52 | 15 | | |
+| | *Myliobatis californica* | 52 | 3, 4, 6 | | |
+| | *Myliobatis freminvillii* | 52 | 3, 4, 6 | Only partially reported^1^ | 6 |
+| | *Myliobatis tobijei* | 54 | 20 | | |
+| | *Platyrhinoidis triseriata* | 64 | 3, 6 | XX/XY | 6 |
+| | *Paratrygon aiereba* | 90 | 24 | | |
+| | *Plesiotrygon iwamae* | 74 | 25 | | |
+| | *Potamotrygon* aff. *motoro* | 66 | 3, 26 | X1X1X2X2/X1X2Y | 26 |
+| | *Potamotrygon* aff. *wallacei* | 68 | 25 | | |
+| | *Potamotrygon amazona* | 66 | 25 | Only partially reported^1^ | 25 |
+| | *Potamotrygon constellata* | 66 | 25 | | |
+| | *Potamotrygon falkneri* | 66 | 26 | X1X1X2X2/X1X2Y | 26 |
+| | *Potamotrygon leopoldi* | 64 | 25 | | |
+| | *Potamotrygon motoro* | 66 | 24, 25, 27 | X1X1X2X2/X1X2Y^5^ | 27 |
+| | *Potamotrygon orbignyi* | 66 | 24, 25 | XX/XY | 25 |
+| | *Potamotrygon scobina* | 66 | 25 | Only partially reported^1^ | 25 |
+| | *Potamotrygon wallacei* | 68 | 28 | XX/XO | 28 |
+| | *Rhinoptera bonasus* | 64 | 3, 4 | | |
+| | *Urolophus aurantiacus* | 52 | 20 | | |
+| | *Urolophus halleri* | 72 | 3, 4 | | |
+| Rajiformes | *Amblyraja radiata* | 98 | 16 | | |
+| | *Dipturus batis* | 98 | 1, 11, 16 | | |
+| | *Leucoraja erinacea* | 98 | 4 | | |
+| | *Leucoraja ocellata* | ca. 92 | 4 | | |
+| | *Okamejei meerdervoortii* | 104 | 17 | | |
+| | *Raja asterias* | 98 | 4, 15, 22 | | |
+| | *Raja clavata* | 98 | 16 | | |
+| | *Raja eglanteria* | 58 | 3, 4, 6 | | |
+| | *Raja montagui* | 96 | 11, 21, 22 | | |
+| | *Raja polystigma* | 96 | 29 | | |
+| Rhinopristiformes | *Rhinobatos hynnicephalus* | 60 | 30 | Not reliably reported^3^ | 30 |
+| | *Rhinobatos productus* | 92 | 3, 6 | XX/XY | 6 |
+| | *Rhinobatos schlegelii* | 64 | 31 | Not reliably reported^3^ | 31 |
+| Torpediniformes | *Narcine brasiliensis* | 28 | 19 | | |
+| | *Narke japonica* | 54 | 32 | | |
+| | *Tetronarce californica* | 82 | 32 | | |
+| | *Tetronarce tokionis* | 86 | 18 | | |
+| | *Torpedo marmorata* | 86 | 11, 33 | | |
+| | *Torpedo nobiliana* | 66 | 34 | | |
+| | *Torpedo torpedo* | 66 | 11, 33 | | |
 
 1Unpaired large- or middle-sized chromosomes were observed in male individuals, but females were not analyzed.  
 2Unpaired large- or middle-sized chromosomes were observed in unknown sex individuals, but males and females were not analyzed. 
@@ -219,3 +219,5 @@ heterochromatin in two medaka species: Oryzias hubbsi and O. celebensis
 (Adrianichthyidae, Beloniformes). Cytogenet. Genome Res. 141, 212–226 (2013).
 46. Fujiwara, A. et al. Improved fish lymphocyte culture for chromosome preparation.
 Genetica 111, 77–89 (2001).
+47. Uno, Y. et al. Cell culture-based shark karyotyping as a resource for
+chromosome-scale genome analysis. Commun. Biol. 3, 652 (2020).

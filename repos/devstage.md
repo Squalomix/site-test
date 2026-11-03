@@ -6,7 +6,7 @@ permalink: /repos/devstage/
 
 # Developmental staging
 
-*This page presents the contents of the GitHub repository [Squalomix/devstage](https://github.com/Squalomix/devstage). The repository remains the maintained source; this page is its window on the consortium site.*
+GitHub repository: [Squalomix/devstage](https://github.com/Squalomix/devstage)
 
 This page lists landmark literature reporting the developmental staging of chondrichthyan species.
 

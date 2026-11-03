@@ -6,9 +6,11 @@ permalink: /repos/utr-modeling/
 
 # UTR modeling
 
-*This page presents the contents of the GitHub repository [Squalomix/utr-modeling](https://github.com/Squalomix/utr-modeling). The repository remains the maintained source; this page is its window on the consortium site.*
+GitHub repository: [Squalomix/utr-modeling](https://github.com/Squalomix/utr-modeling)
 
 ## Step-by-step guide for UTR modeling
+
+The workflow described on this page was also used to produce the UTR-extended gene models provided in MedakaBase ([MedakaBase as a unified genomic resource platform for medaka fish biology, DNA Research, 2025](https://academic.oup.com/dnaresearch/article/32/6/dsaf030/8296684)).
 
 This page provides a third-party guide to modifying an existing GTF file by extending 3’-ends of transcripts using the program [peaks2utr](https://github.com/haessar/peaks2utr). This process is demanded by possible data loss caused due to the biased distribution of the reads obtained in some transcriptome sequencing methods including the [Chromium Single Cell Gene Expression of 10X Genomics](https://www.10xgenomics.com/products/single-cell-gene-expression). The versions of the programs and example files employed below in this guide follow our own experience with medaka demonstrated as part of the activity of NBRP Medaka Project of Japan. <br>
 
@@ -116,4 +118,4 @@ Haese-Hill et al., Bioinformatics 2023 ['peaks2utr: a robust Python tool for the
 ### Similar efforts
 Bilgic et al., eLife 2023 ['Truncated radial glia as a common precursor in the late corticogenesis of gyrencephalic mammals'](https://elifesciences.org/articles/91406)<br>
 Lawson et al., eLife 2020 ['An improved zebrafish transcriptome annotation for sensitive and comprehensive detection of cell type-specific genes'](https://elifesciences.org/articles/55792)<br> 
- 　　[Improved zebrafish gene models produced in this study](https://www.umassmed.edu/lawson-lab/reagents/zebrafish-transcriptome/)
+[Improved zebrafish gene models produced in this study](https://www.umassmed.edu/lawson-lab/reagents/zebrafish-transcriptome/)

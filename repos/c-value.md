@@ -6,7 +6,7 @@ permalink: /repos/c-value/
 
 # Genome sizes
 
-*This page presents the contents of the GitHub repository [Squalomix/c-value](https://github.com/Squalomix/c-value). The repository remains the maintained source; this page is its window on the consortium site.*
+GitHub repository: [Squalomix/c-value](https://github.com/Squalomix/c-value)
 
 This page contains technical information and resources regarding genone sizes of chondrichthyan species. 
 <BR>
@@ -16,7 +16,8 @@ This page contains technical information and resources regarding genone sizes of
 Our qPCR-based genome size estimation protocol sQuantGenome is available in English as [v1.1](https://github.com/Squalomix/c-value/blob/main/Protocol-sQuantGenome-v1.1.pdf) and in Japanese as [v2.0](https://github.com/Squalomix/c-value/blob/main/ProtocolJ-sQuantGenome-v2.0.pdf). This protocol is introduced in this publication ([Kadota et al., 2023](https://f1000research.com/articles/12-1204)).
 
 ### History
-|Data|Event|
+
+|Date|Event|
 |----|----|
 |April 1, 2025|Release of the first Japanese version of the protocol v2.0 (with some modifications)|
 |May 28, 2024|Release of the protocol v1.1|
