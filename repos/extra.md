@@ -1,21 +1,14 @@
 ---
 layout: default
-title: Beyond chondrichthyans
+title: Squalomix Extra
 permalink: /repos/extra/
 ---
 
-# Beyond chondrichthyans
+# Squalomix Extra
 
 *This page presents the contents of the GitHub repository [Squalomix/extra](https://github.com/Squalomix/extra). The repository remains the maintained source; this page is its window on the consortium site.*
 
-## Data Use Policy
-
-Updated on September 10, 2025
-
-We release our sequence data upon reaching the stage of manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect other researchers to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached. Please be sure to consult Shigehiro Kuraku if you are interested in using the genome assemblies listed below as 'in prep.'.
-
-Unlike many other genome sequencing consortia, our work is primarily supported by academic, discovery-driven research grants, and we have limited personnel dedicated to data finalization and release.
-
+Our [Data Use Policy](data-use-policy.md) applies to all of the assemblies below, and applies strictly to those marked as 'in prep.'.
 
 ## Non-chondrichthyan species chosen for whole genome sequencing by Squalomix
 
@@ -45,7 +38,7 @@ After our fundamental analysis on a non-phased assembly ([Sato et al., 2024](htt
 
 ### Geotria australis and Mordacia mordax
 
-We are preparing to publish our molecular evolutionary analyses using these assemblies, and the above-mentioned Data Use Policies strictly apply to these assemblies.
+We are preparing to publish our molecular evolutionary analyses using these assemblies, and the [Data Use Policy](data-use-policy.md) strictly applies to these assemblies.
 
 ### Paroedura picta
 

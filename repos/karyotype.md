@@ -37,7 +37,7 @@ The table included below was derived from Suppl Table of Uno et al., Comm Biol 2
 | Orectolobiformes | Chiloscyllium punctatum | 106 | Present study | XX/XY | Present study |
 | | Chiloscyllium plagiosum | 106 | Present study | XX/XY | Present study |
 | | Rhincodon typus | 102 | Present study | | |
-| | Stegostoma fasciatum | 102 | Present study | | |
+| | Stegostoma tigrinum (formerly fasciatum) | 102 | Present study | | |
 | Heterodontiformes | Heterodontus francisci | 102 | 3, 4 | | |
 | | Heterodontus japonicus | 102 | 14 | | |
 | Squatiniformes | Squatina californica | 88 | 3, 6 | | |
