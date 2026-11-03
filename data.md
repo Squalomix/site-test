@@ -26,16 +26,9 @@ We have released the ['iconHi-C' (inexpensive and controllable Hi-C) protocol](r
 
 <div class="accent-bar" aria-hidden="true"></div>
 
-## Sequence data and archives
-
-- [NCBI BioProject entry (PRJNA707598)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707598) — sequence data produced by the consortium, deposited at NCBI
-- [Selected species](repos/selected-species.md) — our flagship species, with assembly tables and the sequence availability guide (formerly the Sequences page)
-
-<div class="accent-bar" aria-hidden="true"></div>
-
 ## Data by species
 
-- [Species](species.md) — sequencing status for the 32 species we work on, with latest publications
+- [Species](species.md) — sequencing status for the dozens of species we work on, with latest publications
 - [Selected species](repos/selected-species.md) — our flagship species, for which we hold data well beyond genome assemblies
 - [Genome sizes](repos/c-value.md) — original genome size (C-value) data measured by the consortium
 - [Karyotypes](repos/karyotype.md) — original karyotype data, the reference for validating genome assemblies

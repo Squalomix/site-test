@@ -57,4 +57,3 @@ Last updated on May 27, 2026
 
 
 This list includes some species for which our collaborators take an initiative in genome sequencing. <br>
-Also see the species list on [Genomes on a Tree (GoaT)](https://goat.genomehubs.org/search?query=long_list%3Dsqualomix&result=taxon&summaryValues=count&taxonomy=ncbi&offset=0&fields=assembly_level%2Cassembly_span%2Cc_value%2Cgenome_size%2Clong_list%2Cother_priority%2Cfamily_representative&includeEstimates=false#long_list%3Dsqualomix).
