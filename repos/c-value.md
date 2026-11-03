@@ -6,8 +6,6 @@ permalink: /repos/c-value/
 
 # Genome sizes
 
-GitHub repository: [Squalomix/c-value](https://github.com/Squalomix/c-value)
-
 This page contains technical information and resources regarding genone sizes of chondrichthyan species. 
 <BR>
 <BR>  

@@ -6,8 +6,6 @@ permalink: /repos/extra/
 
 # Squalomix Extra
 
-GitHub repository: [Squalomix/extra](https://github.com/Squalomix/extra)
-
 Our [Data Use Policy](data-use-policy.md) applies to all of the assemblies below, and applies strictly to those marked as 'in prep.'.
 
 ## Non-chondrichthyan species chosen for whole genome sequencing by Squalomix

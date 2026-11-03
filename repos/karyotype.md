@@ -6,8 +6,6 @@ permalink: /repos/karyotype/
 
 # Karyotypes
 
-GitHub repository: [Squalomix/karyotype](https://github.com/Squalomix/karyotype)
-
 The table below was derived from the Supplementary Table of [Uno et al., Commun Biol 2020](https://www.nature.com/articles/s42003-020-01373-7). The entries citing 'Uno et al., 2020' in the References columns are the karyotypes newly reported in that study (reference 47 below), which established our cell culture-based karyotyping for elasmobranchs.
 
 | Order | *Species name* | Chromosome no. (2n) | References | Sex chromosomes | References |

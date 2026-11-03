@@ -6,8 +6,6 @@ permalink: /repos/sneg/
 
 # SNEG <small class="heading-note">standardized nomenclature for elasmobranch genes</small>
 
-GitHub repository: [Squalomix/sneg](https://github.com/Squalomix/sneg)
-
 ## Motivation
 
 We are compiling reliable gene models from a diverse range of chordate species, based on their chromosome-scale genome assemblies, to establish orthogroups of protein-coding genes and a corresponding phylome. Our primary goal is to generate a comprehensive, chordate-wide catalogue of gene orthology. This catalogue will also serve as the basis for a standardized nomenclature for elasmobranch genes (SNEG), addressing the inconsistencies and misleading gene names currently found in NCBI Genome annotations.

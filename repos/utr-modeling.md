@@ -6,8 +6,6 @@ permalink: /repos/utr-modeling/
 
 # UTR modeling
 
-GitHub repository: [Squalomix/utr-modeling](https://github.com/Squalomix/utr-modeling)
-
 ## Why care about UTR?
 
 Gene models often under-annotate the 3' untranslated regions (UTRs) of transcripts. This matters in practice, because some transcriptome sequencing methods, including the [Chromium Single Cell Gene Expression of 10X Genomics](https://www.10xgenomics.com/products/single-cell-gene-expression), produce reads whose distribution is strongly biased toward the 3' ends of transcripts. Reads that fall in UTR sequence missing from the gene models cannot be assigned to genes, and the data are effectively lost. Extending the annotated 3' ends of transcripts is a simple way to recover such reads and to improve the sensitivity of downstream analyses.
@@ -15,7 +13,6 @@ Gene models often under-annotate the 3' untranslated regions (UTRs) of transcrip
 ## Step-by-step guide for UTR extension
 
 This page provides a third-party guide to modifying an existing GTF file by extending 3'-ends of transcripts using the program [peaks2utr](https://github.com/haessar/peaks2utr). The versions of the programs and example files employed below in this guide follow our own experience with medaka demonstrated as part of the activity of NBRP Medaka Project of Japan [(DNA Research, 2025)](https://academic.oup.com/dnaresearch/article/32/6/dsaf030/8296684). <br>
-
 
 ### 1. Installation
 

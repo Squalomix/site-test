@@ -6,8 +6,6 @@ permalink: /repos/iconhi-c/
 
 # iconHi-C
 
-GitHub repository: [Squalomix/iconhi-c](https://github.com/Squalomix/iconhi-c)
-
 ## Our protocol
 
 iconHi-C is our own versatile Hi-C protocol, developed to make Hi-C data acquisition inexpensive and controllable across a wide range of taxa and tissues. It grew out of a systematic comparison of commercial kits and existing protocols, reported in our original paper ([Kadota et al., GigaScience 2020](https://academic.oup.com/gigascience/article/9/1/giz158/5695848)); the protocol itself is available at [protocols.io (v1.0)](https://www.protocols.io/view/iconhi-c-protocol-ver-1-0-eq2lydr6elx9/v1) and on [figshare (v1.1)](https://figshare.com/articles/online_resource/iconHi-C_protocol_v1_1_pdf/14669751/1). What makes a difference in Hi-C scaffolding, and the lessons from applying the protocol to many species, are discussed in our minireview ([Yamaguchi et al., Mol Ecol 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16146)).
