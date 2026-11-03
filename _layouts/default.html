@@ -4,22 +4,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
+      <div class="accent-bar" aria-hidden="true"></div>
+      {% if page.url == "/" %}<div class="top-banner"><img src="{{ "/assets/banner.jpg" | relative_url }}" alt="Squalomix — multimodal omics project for understanding the diversity and evolution of sharks and rays"></div>{% endif %}
       <header>
         <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
         {% if site.logo %}
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
         <p>{{ site.description }}</p>
-
         <!-- Left-side menu: main pages + one page per repository.
-             This is the single customisation added to the stock
-             jekyll-theme-minimal layout. -->
+          This is the single customisation added to the stock
+          jekyll-theme-minimal layout. -->
         <nav class="sidenav">
           <ul>
             <li><a href="{{ "/" | relative_url }}">Home</a></li>
@@ -29,29 +30,30 @@
             <li><a href="{{ "/publications/" | relative_url }}">Publications</a></li>
             <li><a href="{{ "/links/" | relative_url }}">Links</a></li>
           </ul>
-          <h3>Repositories</h3>
+          <h3>Topics</h3>
           <ul>
             <li><a href="{{ "/repos/sequences/" | relative_url }}">Sequences</a></li>
+            <li><a href="{{ "/selected-species/" | relative_url }}">Selected species</a></li>
             <li><a href="{{ "/repos/c-value/" | relative_url }}">Genome sizes</a></li>
             <li><a href="{{ "/repos/karyotype/" | relative_url }}">Karyotypes</a></li>
             <li><a href="{{ "/repos/iconhi-c/" | relative_url }}">iconHi-C</a></li>
             <li><a href="{{ "/repos/sneg/" | relative_url }}">SNEG</a></li>
             <li><a href="{{ "/repos/repeats/" | relative_url }}">Repeats</a></li>
             <li><a href="{{ "/repos/devstage/" | relative_url }}">Developmental staging</a></li>
-            <li><a href="{{ "/repos/extra/" | relative_url }}">Beyond chondrichthyans</a></li>
+            <li><a href="{{ "/data-use-policy/" | relative_url }}">Data Use Policy</a></li>
           </ul>
           <h3>Related</h3>
           <ul>
             <li><a href="{{ "/repos/medaka-annex/" | relative_url }}">Medaka annex</a></li>
             <li><a href="{{ "/repos/utr-modeling/" | relative_url }}">UTR modeling</a></li>
+            <li><a href="{{ "/repos/extra/" | relative_url }}">Squalomix Extra</a></li>
           </ul>
         </nav>
-
         <p class="view"><a href="https://github.com/Squalomix">View on GitHub</a><br>
-        <a href="https://bsky.app/profile/kurakulabmsm.bsky.social">Bluesky</a> / <a href="https://x.com/Squalomix4earth">X</a></p>
+        <a href="https://bsky.app/profile/kurakulabmsm.bsky.social">Bluesky</a>/<a href="https://x.com/Squalomix">X</a></p>
       </header>
       <section>
-      {{ content }}
+        {{ content }}
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme: <a href="https://github.com/pages-themes/minimal">Minimal</a></small></p>
