@@ -17,7 +17,7 @@ Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genet
 - **Shark-References** — [partnership](https://shark-references.com/) with the literature and taxonomy database for chondrichthyan research, since 2025.
 - **Fisheries science and stock assessment (ICCAT / FRA)** — Through the Fisheries Research and Education Agency (FRA), Japan, we contribute to the Shark Research and Data Collection Programme (SRDCP) of the [International Commission for the Conservation of Atlantic Tunas (ICCAT)](https://www.iccat.int/), in particular its genome-wide genetic study of porbeagle stock structure and kinship, ongoing since 2022.
 - **Japanese Red List Genome Project** — the Kuraku Lab contributes to this project, which catalogues the availability of genome sequences for endangered species in Japan ([project page](https://treethinkers.nig.ac.jp/redlist/)).
-- **Aquariums and marine stations** — public aquariums and marine stations across Japan collaborate with us in sampling, giving access to rare and endangered species that are otherwise inaccessible, as in our long-standing work with Okinawa Churaumi Aquarium on the whale shark.
+- **Aquariums and marine stations** — public aquariums and marine stations collaborate with us in sampling, giving access to rare and endangered species that are otherwise inaccessible, as in our long-standing work with Okinawa Churaumi Aquarium on the whale shark. Staff of the following aquariums are among the co-authors of our consortium papers: Okinawa Churaumi Aquarium, Osaka Aquarium Kaiyukan, Aquamarine Fukushima, Marine Science Museum (Tokai University), and Georgia Aquarium (USA).
 
 ## Funding
 
