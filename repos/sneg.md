@@ -27,7 +27,7 @@ The products of this project are the chordate-wide catalogue of gene orthology (
 *Drosophila melanogaster* (common fruit fly)<br>
 *Branchiostoma lanceolatum* (Mediterranean amphioxus)<br>
 *Ciona intestinalis* (vase tunicate)<br>
-inshore hagfish<br>
+*Eptatretus burgeri* (inshore hagfish)<br>
 *Petromyzon marinus* (sea lamprey)<br>
 *Geotria australis* (pouched lamprey)<br>
 *Scyliorhinus torazame* (cloudy catshark)<br>
