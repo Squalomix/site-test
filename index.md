@@ -4,6 +4,8 @@ title: Home
 permalink: /
 ---
 
+<img class="home-banner" src="{{ "/assets/banner.jpg" | relative_url }}" alt="Squalomix — multimodal omics project for understanding the diversity and evolution of sharks and rays">
+
 # Squalomix - shark genomics and beyond
 
 Cartilaginous fishes (sharks, rays, chimaeras) charted an evolutionary trajectory distinct from other lineages. Not simply generalized as "fish," these species require dedicated research frameworks to decode their lives. Since 2020, Squalomix has met this need sustainably. Partnering with public aquariums, marine stations, and allied consortia, we study diverse species—from migratory pelagic sharks to our core focus, Japanese coastal biodiversity.
