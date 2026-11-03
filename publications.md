@@ -19,7 +19,7 @@ Papers produced under, or closely associated with, the Squalomix Consortium, in 
 ## 2025
 {: .pub-year}
 
-- Niwa, T. et al. Sharks and rays have the oldest vertebrate sex chromosome with unique sex determination mechanisms. *PNAS* 122. [DOI](https://www.pnas.org/doi/10.1073/pnas.2513676122) — [NIG press release](https://www.nig.ac.jp/nig/2025/07/research-highlights/pr20250723.html)
+- Niwa, T. et al. Sharks and rays have the oldest vertebrate sex chromosome with unique sex determination mechanisms. *PNAS* 122. [DOI](https://www.pnas.org/doi/10.1073/pnas.2513676122)
 
 ## 2023
 {: .pub-year}
