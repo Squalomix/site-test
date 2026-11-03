@@ -24,8 +24,9 @@ header, footer { position: static; }
 
 /* Existing Squalomix banner, at the top of the home page content
    column (i.e. the main width excluding the left menu), shown at
-   half the column width so the updates below stay in view. */
-.home-banner { display: block; width: 50%; height: auto; margin: 0 0 14px; }
+   three quarters of the column width, centred, so the updates
+   below stay in view. */
+.home-banner { display: block; width: 75%; height: auto; margin: 0 auto 14px; }
 
 /* Publications page: year headings kept compact, closer to the
    entry text size than a full section heading. */
@@ -33,7 +34,7 @@ header, footer { position: static; }
 
 /* Small annotation placed to the right of a page heading
    (e.g. the SNEG page's subtitle). */
-.heading-note { font-size: 0.42em; font-weight: 400; color: #666; margin-left: 14px; letter-spacing: .01em; }
+.heading-note { font-size: 0.55em; font-weight: 400; color: #666; margin-left: 14px; letter-spacing: .01em; }
 
 /* Home page "Latest updates" block: compact type so the content
    below it enters the first viewport. */
