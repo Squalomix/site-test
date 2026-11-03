@@ -23,8 +23,15 @@
 header, footer { position: static; }
 
 /* Existing Squalomix banner, at the top of the home page content
-   column (i.e. the main width excluding the left menu). */
-.home-banner { display: block; width: 100%; height: auto; margin: 0 0 20px; }
+   column (i.e. the main width excluding the left menu), shown at
+   half the column width so the updates below stay in view. */
+.home-banner { display: block; width: 50%; height: auto; margin: 0 0 14px; }
+
+/* Home page "Latest updates" block: compact type so the content
+   below it enters the first viewport. */
+.updates { font-size: 13px; line-height: 1.5; }
+.updates h2 { font-size: 19px; margin: 8px 0 6px; }
+.updates table { font-size: 13px; }
 
 .sidenav ul { list-style: none; margin: 0 0 8px; padding: 0; }.sidenav li { margin: 3px 0; font-size: 15px; }
 .sidenav h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: #777; margin: 16px 0 4px; }
