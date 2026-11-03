@@ -40,7 +40,7 @@ Follow the [official instruction](https://www.10xgenomics.com/support/software/c
 <br>
 ### 2. Prepare a GTF file (genemodel.gtf)
 
-Use a GTF file from Ensembl if available for two reasons. First, 10X Genomics recommend a GTF file from Ensembl in [its official page](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_mr?gclid=CjwKCAjwlJimBhAsEiwA1hrp5tIdN0_JPBX6Ma7xXRKjneF81YLy9lhTFy0WOPXsTGG951l5dwatERoCf-UQAvD_BwE) (*'If the species is available from the Ensembl database, we recommend using the files from there'*). Second, our trial of running peaks2utr with a GTF file from NCBI failed (see [Part 5](https://github.com/Squalomix/utr-modeling/tree/main#5-run-peaks2utr)).
+Use a GTF file from Ensembl if available for two reasons. First, 10X Genomics recommend a GTF file from Ensembl in [its official page](https://www.10xgenomics.com/support/software/cell-ranger/latest/tutorials/cr-tutorial-mr) (*'If the species is available from the Ensembl database, we recommend using the files from there'*). Second, our trial of running peaks2utr with a GTF file from NCBI failed (see [Part 5](https://github.com/Squalomix/utr-modeling/tree/main#5-run-peaks2utr)).
 
 e.g., <CODE>Oryzias_latipes.ASM223467v1.110.gtf.gz</CODE> from [Ensembl](https://ftp.ensembl.org/pub/release-110/gtf/oryzias_latipes/) 
 
@@ -54,7 +54,7 @@ The program peaks2utr assumes Chromium scRNA-seq data as input (Part 4.1), but i
 
 **4.1.** Use 10X Chromium single cell RNA-seq data set <br>
 <br>
-Format the reference and gene model using the genome assembly (assembly.fna) and the GTF file (genemodel.gtf) (see the [official guide](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/advanced/references))
+Format the reference and gene model using the genome assembly (assembly.fna) and the GTF file (genemodel.gtf) (see the [official guide](https://www.10xgenomics.com/support/software/cell-ranger/latest/tutorials/cr-tutorial-mr))
 
 ```
 cellranger mkref --genome=custom_ref --genes=genemodel.gtf --fasta=assembly.fna
