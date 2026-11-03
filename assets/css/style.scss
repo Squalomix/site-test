@@ -11,8 +11,15 @@
      we additionally lay the menu out horizontally and let wide tables
      scroll sideways inside the content column. */
 
-.sidenav ul { list-style: none; margin: 0 0 8px; padding: 0; }
-.sidenav li { margin: 3px 0; font-size: 14px; }
+/* Gradient accent bar across the top of the main width
+   (pale lavender -> blue -> teal -> deep blue). Purely decorative. */
+.accent-bar { height: 12px; margin: 0 0 28px; background: linear-gradient(90deg, #E0E5F7 0%, #B4CAF0 25%, #9AC6F0 38%, #71B6CE 50%, #429F99 62%, #29739F 75%, #1B3BC7 88%, #0E03EF 100%); }
+
+/* Existing Squalomix banner, home page only, full main width. */
+.top-banner { margin: 0 0 28px; }
+.top-banner img { display: block; width: 100%; height: auto; }
+
+.sidenav ul { list-style: none; margin: 0 0 8px; padding: 0; }.sidenav li { margin: 3px 0; font-size: 14px; }
 .sidenav h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: #777; margin: 16px 0 4px; }
 .sidenav a.active { font-weight: 700; color: #222; }
 header img { max-width: 100%; }
