@@ -6,6 +6,8 @@ permalink: /
 
 <img class="home-banner" src="{{ "/assets/banner.jpg" | relative_url }}" alt="Squalomix — multimodal omics project for understanding the diversity and evolution of sharks and rays">
 
+<div class="updates" markdown="1">
+
 ## Latest updates
 
 | Year-Month | Event |
@@ -17,6 +19,8 @@ permalink: /
 | 2025 Aug | Our activity introduced at [Congress of the European Society of Evolutionary Biology (ESEB)](https://eseb2025.com/) in Barcelona, Spain |
 
 Full chronology: [History](history.md).
+
+</div>
 
 <div class="accent-bar" aria-hidden="true"></div>
 
