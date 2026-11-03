@@ -4,7 +4,7 @@ title: SNEG
 permalink: /repos/sneg/
 ---
 
-# SNEG
+# SNEG <small class="heading-note">standardized nomenclature for elasmobranch genes</small>
 
 GitHub repository: [Squalomix/sneg](https://github.com/Squalomix/sneg)
 

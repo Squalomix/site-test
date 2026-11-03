@@ -39,7 +39,7 @@ conda activate peaks2utr
 
 **1.2.** Installing cellranger v7.1.0<br>
 
-Follow the [official instruction](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/installation) from 10X Genomics.<br>
+Follow the [official instruction](https://www.10xgenomics.com/support/software/cell-ranger/latest/tutorials/cr-tutorial-in) from 10X Genomics.<br>
 <br>
 ### 2. Prepare a GTF file (genemodel.gtf)
 
