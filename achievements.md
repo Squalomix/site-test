@@ -29,7 +29,7 @@ Niwa, T. et al. Sharks and rays have the oldest vertebrate sex chromosome with u
 
 ## Dawn of shark genomics
 
-In 2018, we published genome sequences of three shark species — brownbanded bamboo shark, cloudy catshark, and whale shark — together with tissue-level gene expression profiles and epigenomic data on the chromatin regulator CTCF. Produced during our years at RIKEN, this study founded the approach that Squalomix has since scaled up to dozens of species.
+In 2018, we published genome sequences of three shark species — brownbanded bamboo shark, cloudy catshark, and whale shark — together with tissue-level gene expression profiles and epigenomic data on the chromatin regulator CTCF. Its findings included the slow pace of molecular evolution in sharks, the discovery of the elusive HoxC cluster, and a leptin gene that traces the origin of this hormone back to the jawed-vertebrate ancestor. Produced during our years at RIKEN, this study founded the approach that Squalomix has since scaled up to dozens of species.
 
 <img class="achieve-fig" src="{{ "/assets/achieve-foxg.jpg" | relative_url }}" alt="FoxG gene repertoires across vertebrates and FoxG expression in catshark embryos">
 <p class="fig-cap">FoxG gene repertoires across vertebrates (left) and FoxG expression in catshark embryos (right), from Hara et al. (2018).</p>
