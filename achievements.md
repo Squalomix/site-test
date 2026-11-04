@@ -14,6 +14,9 @@ A selection of highlights from our research. For the complete list of our papers
 
 The whale shark feeds near the sunlit surface, but also dives to depths of nearly 2,000 m. We showed that its light-sensitive pigment rhodopsin is tuned to the blue light that penetrates the deep sea, mainly through a substitution at a single site (site 94) — the very site where a mutation in humans causes congenital stationary night blindness. The substitution makes the pigment less stable at warm temperatures, a trade-off that pays off in the cold deep sea. The study was also featured in a [news article in *Science*](https://doi.org/10.1126/science.adh9610).
 
+<img class="achieve-fig" src="{{ "/assets/achieve-rhodopsin.jpg" | relative_url }}" alt="Whale shark photograph and rhodopsin amino-acid residues of sharks living at different depths">
+<p class="fig-cap">Rhodopsin amino-acid residues in sharks of different habitat depths. The deep-diving whale shark (highlighted, ~1,928 m) carries substitutions at sites 94 and 178 (pink).</p>
+
 Yamaguchi, K. et al. Whale shark rhodopsin adapted to deep-sea lifestyle by a substitution associated with human disease. *PNAS* 120 (2023). [Article](https://www.pnas.org/doi/10.1073/pnas.2220728120)
 
 ## The oldest vertebrate sex chromosome
@@ -24,9 +27,12 @@ Yamaguchi, K. et al. Elasmobranch genome sequencing reveals evolutionary trends 
 
 Niwa, T. et al. Sharks and rays have the oldest vertebrate sex chromosome with unique sex determination mechanisms. *PNAS* 122 (2025). [Article](https://www.pnas.org/doi/10.1073/pnas.2513676122)
 
-## The first shark genomes
+## Dawn of shark genomics
 
-In 2018, we published the first genome sequences of sharks — brownbanded bamboo shark, cloudy catshark, and whale shark — together with tissue-level gene expression profiles and epigenomic data on the chromatin regulator CTCF. Produced during our years at RIKEN, this study founded the approach that Squalomix has since scaled up to dozens of species.
+In 2018, we published genome sequences of three shark species — brownbanded bamboo shark, cloudy catshark, and whale shark — together with tissue-level gene expression profiles and epigenomic data on the chromatin regulator CTCF. Produced during our years at RIKEN, this study founded the approach that Squalomix has since scaled up to dozens of species.
+
+<img class="achieve-fig" src="{{ "/assets/achieve-foxg.jpg" | relative_url }}" alt="FoxG gene repertoires across vertebrates and FoxG expression in catshark embryos">
+<p class="fig-cap">FoxG gene repertoires across vertebrates (left) and FoxG expression in catshark embryos (right), from Hara et al. (2018).</p>
 
 Hara, Y. et al. Shark genomes provide insights into elasmobranch evolution and the origin of vertebrates. *Nature Ecology & Evolution* 2: 1761–1771 (2018). [Article](https://www.nature.com/articles/s41559-018-0673-5)
 
