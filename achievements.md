@@ -49,3 +49,5 @@ Sharks reproduce in diverse ways, from egg-laying to live birth in which the mot
 <p class="fig-cap">Cover of the journal issue featuring this study (GBE 15(3), March 2023): a frilled shark embryo with its yolk sac, against the VLDLR gene tree.</p>
 
 Ohishi, Y. et al. Egg Yolk Protein Homologs Identified in Live-Bearing Sharks: Co-Opted in the Lecithotrophy-to-Matrotrophy Shift? *Genome Biology and Evolution* 15: evad028 (2023). [Article](https://academic.oup.com/gbe/article/15/3/evad028/7048455)
+
+The study was also featured in the journal's highlight article, [Inside the Shark Nursery: The Evolution of Live Birth in Cartilaginous Fish](https://academic.oup.com/gbe/article/15/3/evad037/7077449) (*GBE* 15: evad037, 2023).
