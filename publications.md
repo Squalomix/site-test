@@ -26,7 +26,7 @@ Papers produced under, or closely associated with, the Squalomix Consortium, in 
 
 - Yamaguchi, K. et al. Elasmobranch genome sequencing reveals evolutionary trends of vertebrate karyotype organization. *Genome Research* 33: 1527–1540. [Article](https://genome.cshlp.org/content/33/9/1527) — first elasmobranch sex chromosome DNA sequences (zebra shark; whale shark)
 - Yamaguchi, K. et al. Whale shark rhodopsin adapted to deep-sea lifestyle by a substitution associated with human disease. *PNAS* 120. [DOI](https://www.pnas.org/doi/10.1073/pnas.2220728120)
-- Ohishi, Y. et al. Egg Yolk Protein Homologs Identified in Live-Bearing Sharks: Co-Opted in the Lecithotrophy-to-Matrotrophy Shift? *Genome Biology and Evolution* 15: evad028. [Article](https://academic.oup.com/gbe/article/15/3/evad028/7048455)
+- Ohishi, Y. et al. Egg Yolk Protein Homologs Identified in Live-Bearing Sharks: Co-Opted in the Lecithotrophy-to-Matrotrophy Shift? *Genome Biology and Evolution* 15: evad028. [Article](https://academic.oup.com/gbe/article/15/3/evad028/7048455) [Highlight](https://academic.oup.com/gbe/article/15/3/evad037/7077449)
 
 ## 2022
 {: .pub-year}

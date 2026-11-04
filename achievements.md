@@ -45,8 +45,8 @@ See also our [History](history.md).
 
 Sharks reproduce in diverse ways, from egg-laying to live birth in which the mother supplies nutrients directly. Vitellogenins, the yolk proteins that nourish embryos inside eggs, were therefore expected to be lost in live-bearing species. We found instead that their homologs are retained in live-bearing sharks and appear to have been co-opted to nourish embryos in the uterus — a genomic footprint of the evolutionary shift from yolk-based nutrition (lecithotrophy) to maternal supply (matrotrophy).
 
-<img class="achieve-fig narrow" src="{{ "/assets/achieve-vtg-cover.jpg" | relative_url }}" alt="Cover of Genome Biology and Evolution, volume 15, issue 3 (March 2023), showing a frilled shark embryo with its yolk sac">
-<p class="fig-cap">Cover of the journal issue featuring this study (GBE 15(3), March 2023): a frilled shark embryo with its yolk sac, against the VLDLR gene tree.</p>
+<img class="achieve-fig narrow" src="{{ "/assets/achieve-vtg-cover.jpg" | relative_url }}" alt="Cover of Genome Biology and Evolution, volume 15, issue 3 (March 2023), showing a frilled shark embryo">
+<p class="fig-cap">Cover of the journal issue featuring this study (GBE 15(3), March 2023): a frilled shark embryo.</p>
 
 Ohishi, Y. et al. Egg Yolk Protein Homologs Identified in Live-Bearing Sharks: Co-Opted in the Lecithotrophy-to-Matrotrophy Shift? *Genome Biology and Evolution* 15: evad028 (2023). [Article](https://academic.oup.com/gbe/article/15/3/evad028/7048455)
 
