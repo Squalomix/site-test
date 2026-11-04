@@ -21,9 +21,11 @@ We have released the ['iconHi-C' (inexpensive and controllable Hi-C) protocol](r
 ## Protocols and standards
 
 - [iconHi-C](repos/iconhi-c.md) — our inexpensive and controllable Hi-C protocol and the record of Hi-C data production ([Kadota et al., GigaScience 9: giz158](https://doi.org/10.1093/gigascience/giz158))
+- [Shark cell culture](repos/karyotype.md) — our cell culture protocol for elasmobranch karyotyping ([Uno et al., 2020. Commun. Biol. 3: 652](https://www.nature.com/articles/s42003-020-01373-7))
 - [sQuantGenome](repos/c-value.md) — our qPCR-based protocol for estimating genome size, which requires no living cells
 - [SNEG](repos/sneg.md) — phylome construction and the standardized nomenclature of elasmobranch genes (SNEG Project)
 - [Repeats](repos/repeats.md) — repetitive element resources
+- [UTR modeling](repos/utr-modeling.md) — our workflow for extending 3' UTR annotations of gene models, using peaks2utr
 - [A technical note for Hi-C scaffolding using YaHS](https://github.com/TkNiw/Note-for-YaHS), based on our internal benchmarking
 
 <div class="accent-bar" aria-hidden="true"></div>
