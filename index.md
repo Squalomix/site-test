@@ -48,4 +48,4 @@ More about the consortium: [About](about.md). Our outputs are collected under [D
 
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).
 
-*Last updated: (mock — set on build)*
+*Last updated: November 5, 2026*

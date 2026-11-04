@@ -14,7 +14,7 @@ We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium 
 
 Last updated on May 27, 2026
 
-| Species |Transcriptome<br><small>T</small>|Illumina short reads<br><small>S</small>|10x Chromium linked reads<br><small>X</small>|Oxford Nanopore<br><small>N</small>|PacBio CLR<br><small>P</small>|PacBio HiFi<br><small>H</small>|Hi-C / derivatives<br><small>C</small>|Latest publication|
+| Species |Transcriptome|Illumina short reads|10x Chromium linked reads|Oxford Nanopore|PacBio CLR|PacBio HiFi|Hi-C / derivatives|Latest publication|
 |----|----|----|----|----|----|----|----|----|
 | ★ Brownbanded bamboo shark  *Chiloscyllium punctatum* | ● | ● |   | ● | ● | ● | ● |[Niwa et al. 2025](https://www.pnas.org/doi/10.1073/pnas.2513676122)|
 | Whale shark  *Rhincodon typus* | ● | ● | ● | ● |   |  | ● |[Kawaguchi et al. 2026](https://doi.org/10.1093/gigascience/giag014)|
