@@ -23,6 +23,9 @@ Yamaguchi, K. et al. Whale shark rhodopsin adapted to deep-sea lifestyle by a su
 
 The sex chromosomes of sharks and rays long resisted analysis. Genome sequencing of the zebra shark and the whale shark yielded the first DNA sequences of elasmobranch sex chromosomes (Yamaguchi et al., 2023), and chromosome-scale assemblies across sharks and rays then showed that they rely on a sex chromosome inherited from their common ancestor — the oldest known among vertebrates, with sex determination mechanisms unlike those of mammals and birds (Niwa et al., 2025).
 
+<img class="achieve-fig" src="{{ "/assets/achieve-sexchrom.png" | relative_url }}" alt="Synteny diagram of the X chromosomes of cloudy catshark, bamboo shark, epaulette shark, small tooth sawfish and red stingray">
+<p class="fig-cap">Synteny between the X chromosomes of cartilaginous fishes, with pseudoautosomal regions (PARs) shared at their ends.</p>
+
 Yamaguchi, K. et al. Elasmobranch genome sequencing reveals evolutionary trends of vertebrate karyotype organization. *Genome Research* 33: 1527–1540 (2023). [Article](https://genome.cshlp.org/content/33/9/1527)
 
 Niwa, T. et al. Sharks and rays have the oldest vertebrate sex chromosome with unique sex determination mechanisms. *PNAS* 122 (2025). [Article](https://www.pnas.org/doi/10.1073/pnas.2513676122)
