@@ -8,13 +8,16 @@ permalink: /repos/repeats/
 
 ## Our experience in repeat detection
 
-Exhaustive identification of de novo (species/taxon-specific) repetitive elements is crucial in achieving thorough detection of repetitive regions in the genome in question. It has become a standard strategy in the genomicists' community, to perform a repeat library construction with [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/) and later execute [RepeatMasker](https://www.repeatmasker.org/) using the repeat library constructed by RepeatModeler. Overall performance of repeat detection largely varies depending on the way how these programs are used, as repeatedly cautioned (e.g., [Platt et al., 2016](https://academic.oup.com/gbe/article/8/2/403/2574076)). This document covers some practical topics that users could consider for achieving the maximal outcome.
-
 Our recent technical effort on elasmobranch genomes was published in [Kuraku et al., Genome Res 2026](https://genome.cshlp.org/content/36/8/1708), and that on non-elasmobranch genomes is reported in a preprint by [Ogawa et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.10.12.757905v1).
 
 <div class="accent-bar" aria-hidden="true"></div>
 
-## Make sure your RepeatModeler runs properly with the '-LTRStruct' option
+## Technical note from our past experience
+
+### Make sure your RepeatModeler runs properly with the '-LTRStruct' option
+
+Exhaustive identification of de novo (species/taxon-specific) repetitive elements is crucial in achieving thorough detection of repetitive regions in the genome in question. It has become a standard strategy in the genomicists' community, to perform a repeat library construction with [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/) and later execute [RepeatMasker](https://www.repeatmasker.org/) using the repeat library constructed by RepeatModeler. Overall performance of repeat detection largely varies depending on the way how these programs are used, as repeatedly cautioned (e.g., [Platt et al., 2016](https://academic.oup.com/gbe/article/8/2/403/2574076)). This document covers some practical topics that users could consider for achieving the maximal outcome.
+
 
 When RepeatModeler is run, the option `-LTRStruct` is expected to be reliably identified. However, under some particular conditions of RepeatModeler installation, this function is disabled. If the repeat library file 'genome-families.fa' produced by RepeatModeler includes the repeat models whose header line starts with 'ltr-' in addition to those starting with 'rnd-' (like inserted below), your RepeatModeler runs properly with the `-LTRStruct` option. If there is no repeat model with 'ltr-', this means that your RepeatModeler did not run properly with this option. The problem is that RepeatModeler itself just skips the step and continues to run to the end, producing no explicit error.
 ```
@@ -86,11 +89,11 @@ Program Time: 22:58:31 (hh:mm:ss) Elapsed Time
 LTRPipeline Time: 22:58:50 (hh:mm:ss) Elapsed Time
 ```
 
-## Use more options for RepeatMasker
+### Use more options for RepeatMasker
 
 When RepeatMasker is run, consider setting the options `-s` (sensitive mode) and `-nolow` (no masking of low complexity repeats, e.g., for softmasking-aware gene prediction). There are more options such as `-noint` or `-norna` that may allow more desirable repeat masking suitable to your expectation for downstream data processing.
 
-## Masking simple tandem repeats
+### Masking simple tandem repeats
 
 There is huge room for tweaking RepeatModeler and RepeatMasker options for interspersed repeat detection and masking, but its adaptability to simple tandem repeat detection is not explicit. One possible clue is to modify parameters (such as `-l`) for [Tandem Repeats Finder (TRF)](https://github.com/Benson-Genomics-Lab/TRF) in the file TRF.pm in the RepeatMasker-X.X.X directory.
 
@@ -99,7 +102,7 @@ Another line of improvement can be expected by using a different program from Re
 tantan -c input.fna > output.fna
 ```
 
-## Closing words
+### Closing words
 
 The pieces of information covered in this page arose from technical development, biological analysis, and discussion by John Rozewicki, Jeremy Berthelier, and Shigehiro Kuraku.
 
