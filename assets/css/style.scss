@@ -22,6 +22,10 @@
    Keep both in the normal flow so nothing is cut off or overlapped. */
 header, footer { position: static; }
 
+/* Sidebar site title ("Squalomix") in bright turquoise. */
+header h1 a { color: #1ABC9C; }
+header h1 a:hover { color: #159E85; }
+
 /* Existing Squalomix banner, at the top of the home page content
    column (i.e. the main width excluding the left menu), shown at
    three quarters of the column width, centred, so the updates
