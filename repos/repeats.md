@@ -12,6 +12,8 @@ Exhaustive identification of de novo (species/taxon-specific) repetitive element
 
 Our recent technical effort on elasmobranch genomes was published in [Kuraku et al., Genome Res 2026](https://genome.cshlp.org/content/36/8/1708), and that on non-elasmobranch genomes is reported in a preprint by [Ogawa et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.10.12.757905v1).
 
+<div class="accent-bar" aria-hidden="true"></div>
+
 ## Make sure your RepeatModeler runs properly with the '-LTRStruct' option
 
 When RepeatModeler is run, the option `-LTRStruct` is expected to be reliably identified. However, under some particular conditions of RepeatModeler installation, this function is disabled. If the repeat library file 'genome-families.fa' produced by RepeatModeler includes the repeat models whose header line starts with 'ltr-' in addition to those starting with 'rnd-' (like inserted below), your RepeatModeler runs properly with the `-LTRStruct` option. If there is no repeat model with 'ltr-', this means that your RepeatModeler did not run properly with this option. The problem is that RepeatModeler itself just skips the step and continues to run to the end, producing no explicit error.
