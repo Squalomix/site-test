@@ -6,6 +6,7 @@ show_downloads: false
 lang: en-US
 url: "https://squalomix.github.io"
 baseurl: "/site-test"
+noindex: true
 
 defaults:
   - scope:
